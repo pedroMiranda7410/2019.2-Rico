@@ -5,6 +5,7 @@ theme:
   site_favicon: docs/img/icon-rico.png
 nav:
   - Home: index.md
+  - Pré-Rastrabilidade: pre_rastre.md
   - Disciplina: disciplina/disciplina.md
   - Entregas: entregas/entregas.md
   - Sprints: pontoControle/sprints.md
