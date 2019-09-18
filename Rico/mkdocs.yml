@@ -8,6 +8,6 @@ nav:
   - Pré-Rastrabilidade: pre_rastre.md
   - Disciplina: disciplina/disciplina.md
   - Entregas: entregas/entregas.md
-  - Sprints: pontoControle/sprints.md
+  - Sprints: sprints/sprints.md
 
 dev_addr: '0.0.0.0:8000'
