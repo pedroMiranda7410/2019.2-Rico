@@ -1,16 +1,13 @@
 site_name: Rico
 
 theme:
-  name: cinder
+  name: 'material'
   site_favicon: docs/img/icon-rico.png
-nav:
-  - Home: index.md
-  - Pré-Rastrabilidade: pre_rastre.md
-  - Elicitação:
-    - Requisitos: elicitacao/requisitos.md
-    - Priorização: elicitacao/priorizacao.md
-  - Disciplina: disciplina/disciplina.md
-  - Entregas: entregas/entregas.md
-  - Sprints: sprints/sprints.md
+  feature:
+    tabs: true
+  palette:
+    primary: '#211241'
+    accent: 'black'
+  language: 'pt'
 
 dev_addr: '0.0.0.0:8000'
