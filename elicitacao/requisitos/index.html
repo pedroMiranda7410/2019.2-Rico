@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="../../img/favicon.ico">
+
+    
+    <title>Requisitos - Rico</title>
+    
+
+    <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.min.css">
+    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="../../css/base.min.css" rel="stylesheet">
+    <link href="../../css/cinder.min.css" rel="stylesheet">
+    <link href="../../css/highlight.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+
+     
+</head>
+
+<body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+
+            <a class="navbar-brand" href="../..">Rico</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li >
+                        <a href="../..">Home</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../../pre_rastre/">Pré-Rastrabilidade</a>
+                    </li>
+                
+                
+                
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        
+                            
+<li class="active">
+    <a href="./">Requisitos</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="../priorizacao/">Priorização</a>
+</li>
+
+                        
+                        </ul>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../../disciplina/disciplina/">Disciplina</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../../entregas/entregas/">Entregas</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../../sprints/sprints/">Sprints</a>
+                    </li>
+                
+                
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <i class="fas fa-search"></i> Search
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../../pre_rastre/">
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="next" href="../priorizacao/">
+                            Next <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        
+        
+        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="first-level active"><a href="#metodologia-utilizada">Metodologia Utilizada</a></li>
+        <li class="first-level "><a href="#requisitos-surpresa">Requisitos Surpresa</a></li>
+            <li class="second-level"><a href="#tecnica-dos-6-chapeus">Técnica dos 6 chapéus</a></li>
+                
+                <li class="third-level"><a href="#chapeu-branco">Chapéu Branco</a></li>
+                <li class="third-level"><a href="#chapeu-preto">Chapéu Preto</a></li>
+                <li class="third-level"><a href="#chapeu-amarelo">Chapéu Amarelo</a></li>
+                <li class="third-level"><a href="#chapeu-verde">Chapéu Verde</a></li>
+                <li class="third-level"><a href="#chapeu-vermelho">Chapéu Vermelho</a></li>
+                <li class="third-level"><a href="#chapeu-azul">Chapéu Azul</a></li>
+            <li class="second-level"><a href="#brainstorming">Brainstorming</a></li>
+                
+                <li class="third-level"><a href="#como-posso-saber-quais-sao-os-investimentos-mais-adequados-para-o-meu-perfil-de-investidor">Como posso saber quais são os investimentos mais adequados para o meu perfil de investidor ?</a></li>
+                <li class="third-level"><a href="#requisitos-surpresa-levantados">Requisitos Surpresa Levantados</a></li>
+        <li class="first-level "><a href="#requisitos-esperados">Requisitos Esperados</a></li>
+            <li class="second-level"><a href="#observacao">Observação</a></li>
+                
+                <li class="third-level"><a href="#ambientde-observacao">Ambientde Observação</a></li>
+                <li class="third-level"><a href="#observando-e-levantando-requisitos">Observando e levantando requisitos</a></li>
+                <li class="third-level"><a href="#requisitos-levantados">Requisitos Levantados</a></li>
+    </ul>
+</div></div>
+        <div class="col-md-9" role="main">
+
+<h1 id="metodologia-utilizada">Metodologia Utilizada</h1>
+<p>Baseadi no <strong>modelo Kano</strong> e no <strong>Desdobramento da Função Qualidade (QFD)</strong> o grupo preocupou-se em levantar os requisitos categorizando-os de acordo com a satisfação de um stakeholder.
+Na imagem abaixo podemos ver três categorias, categoria de requisitos surpresa, esperados e óbvios.  </p>
+<p><img alt="Satisfação do Stackholder" src="../../img/satisfacao_stackholder.png" /><br />
+<em>Imagem 1: categorização dos requisitos a seta a esquerda simboliza o grau de satisfação do stakeholder.</em></p>
+<ul>
+<li><strong>Requitos Esperados:</strong> São requisitos fundamentais no sistema, deve-se entender o que foi pedido. Se esses requisitos estiverem no sistema, deixarão o stakeholder satisfeito, pois o sistema propõe o que foi pedido.</li>
+<li><strong>Requisitos Surpresa:</strong> São aqueles requisitos que o stakeholder não solicitou, mas você como engenheiro de requisitos estudou muito bem a ideia, deve-se aprender a achar, e propôs além dos requisitos esperados, deixando o stakeholder mais satisfeito ainda.</li>
+<li><strong>Requisitos Óbvios:</strong> São aqueles requisitos óbvios para o stakeholder, mas para quem irá desenvolver não. Se não entregarmos esses requisitos causará muita insatisfação ao cliente.</li>
+</ul>
+<p>A partir dos conceitos apresentados, o grupo procurou realizar as seguintes técnicas para elicitar requisitos da melhor forma possível. A imagem abaixo retrata as técnicas utilizadas.  </p>
+<p><img alt="Tecnicas" src="../img/" /><br />
+<em>Imagem 2:Técnicas itlizadas</em></p>
+<p>Para os requisitos surpresas utilizamos técnicas que necessitam amplamente da criatividade, como brainstorm e a técnica dos 6 chapéus.
+Já nos requisitos esperados, tentamos fazer a melhor entrevista possível, passando pelo método da observação e aprendizagem. Contando com o auxílio de questionário e utilizando também a técnica de análise de protocolo.<br />
+Em relação aos requisitos óbvios, utilizamos documentos e comparamos com outras aplicações para levantar conceitos básicos acerca do mundo dos investimentos.</p>
+<h1 id="requisitos-surpresa">Requisitos Surpresa</h1>
+<h2 id="tecnica-dos-6-chapeus">Técnica dos 6 chapéus</h2>
+<p>A técnica dos seis chapéus, desenvolvida por Edward de Bono, é uma ferramenta de comunicação e raciocínio muito eficaz. Graças a ela, vemos nossas realidades pessoais a partir de diversos ângulos e perspectivas, aplicando por sua vez o pensamento lateral.</p>
+<p><img alt="6 chapeus" src="../../img/seis_chapeus.png" />  </p>
+<p>O grupo se reuniu, a cada etapa um chapéu era colocado a mesa, o resultado foi, a problemática foi propor novas funcionalidades.  </p>
+<h3 id="chapeu-branco">Chapéu Branco</h3>
+<ul>
+<li>(Pedro) Investimento;</li>
+<li>(Tiago) Receber dinheiro em cima de Investimento de renda fixa;</li>
+<li>(Pedro) Receber dinheiro em cima de Investimento de renda variável;</li>
+<li>(Daniel) Plataforma intermediadora de investimentos;</li>
+<li>(Lucas M.) Taxa de corretagem.</li>
+<li>(Daniel) Fazer com que usuário e instituições financeiras lucrem.</li>
+<li>(Lucas L.) Excelente experiência de usuário;</li>
+</ul>
+<h3 id="chapeu-preto">Chapéu Preto</h3>
+<ul>
+<li>(Daniel) O usuário pode perder dinheiro;</li>
+<li>(Tiago) Como as instituições que vendem ações de renda fixa vão ganhar dinheiro;</li>
+<li>(Pedro) O usuário que não tiver mínima noção de investimento não se sentirá confortável.</li>
+<li>(Lucas M.) Garantir para os usuário que a aplicação é confiável.</li>
+</ul>
+<h3 id="chapeu-amarelo">Chapéu Amarelo</h3>
+<ul>
+<li>(Luís) O usuário pode ganhar dinheiro;</li>
+<li>(Luís) Possuir uma equipe de investidores para mostrar o andamento do mercado.</li>
+<li>(Lucas M.) Garantir que a plataforma seja mobile e web.</li>
+</ul>
+<h3 id="chapeu-verde">Chapéu Verde</h3>
+<ul>
+<li>(Pedro) Pagar uma taxa para as instituições em cima das ações e ganhar dinheiro;</li>
+<li>(Daniel) Criar um aplicativo para auxiliar sobre investimentos </li>
+</ul>
+<h3 id="chapeu-vermelho">Chapéu Vermelho</h3>
+<ul>
+<li>(Tiago) Ganhar Dinheiro;</li>
+<li>(Pedro) Aprender a investir;</li>
+<li>(Lucas M.) Facilidade em investir;</li>
+</ul>
+<h3 id="chapeu-azul">Chapéu Azul</h3>
+<ul>
+<li>(Daniel) Proporcionar um simulador de investimentos;</li>
+<li>(Lucas M.) Proporcionar que o usuário aprenda sobre investimento;</li>
+<li>(Lucas L.) Proporcionar segurança por meio de digital;</li>
+<li>(Daniel) Proporcionar uma experiência de usuário;</li>
+<li>(Tiago) Indicação de investimento realizado por analistas;</li>
+</ul>
+<h2 id="brainstorming">Brainstorming</h2>
+<p>O brainstorm é uma técnica bastante conhecida no levantamento de requisitos, o significado literal de brainstorm é “tempestade de ideias” que se refere a uma maneira de deixar fluir pensamentos sem julgamentos entre uma equipe.
+A equipe utilizou a técnica do brainstorming para levantar os requisitos  surpresa e também ao longo das reuniões para ouvir as opiniões de cada membro. Para organizar as ideias e direcionar as opiniões levantadas, levantamos perguntas chave feita por um possível usuário em torno da ideia de comprar investimentos através de um aplicativo mobile, sempre nos direcionando no sentido de encontrar novidades que surpreendam o usuário.</p>
+<h3 id="como-posso-saber-quais-sao-os-investimentos-mais-adequados-para-o-meu-perfil-de-investidor">Como posso saber quais são os investimentos mais adequados para o meu perfil de investidor ?</h3>
+<ul>
+<li>
+<p><strong>Lucas Leite:</strong> Seria interessante categorizar os investimentos por meio de etiquetas ou cores. Dessa forma o usuário saberia sempre que fosse comprar um novo investimento, se aquele investimento é adequado para seu perfil ou não , a etiqueta ou a cor chamaria sua atenção.</p>
+</li>
+<li>
+<p><strong>Daniel Sousa:</strong> Poderiam existir informações no dashboard inicial indicando os melhores tipos e categorias de investimento para um determinado perfil de investidor, contendo também as informações do porquê comprar determinado investimento e seu custo-benefício.</p>
+</li>
+<li>
+<p><strong>Luis Bruno:</strong> As opções recomendadas poderiam aparecer em uma lista de “Recomendados” para o usuário, que pode ir direto nessa lista e selecionar o investimento que deseja fazer.</p>
+</li>
+<li>
+<p><strong>Lucas Medeiros:</strong> Dentro da filtragem de investimentos poderia ter um filtro por recomendação que, quando selecionado, apareciam apenas os investimentos mais adequados para o usuário naquela lista.</p>
+</li>
+</ul>
+<h3 id="requisitos-surpresa-levantados">Requisitos Surpresa Levantados</h3>
+<ol>
+<li>Informar o risco do investimento por meio de categorias</li>
+<li>Filtrar uma lista de investimentos por categorias, risco, rentabilidade e valor</li>
+</ol>
+<h1 id="requisitos-esperados">Requisitos Esperados</h1>
+<h2 id="observacao">Observação</h2>
+<p>A técnica de observação, como o próprio nome sugere, consiste em observar o problema e tentar entendê-lo, visitando o local em foco com a finalidade de observação do mesmo. Permitindo assim, coletar informações de acordo com o cotidiano das operações e execução dos processos diários do local.  </p>
+<p><img alt="Observacao" src="../../img/observacao.jpg" /> </p>
+<p>O integrante Pedro Miranda passou um tempo observando uma empresa de Fonoaudiologia. Acompanhou de perto o dia a dia dentro do ambiente empresarial, obtendo dados financeiros, assim como, experiências interpessoais.</p>
+<h3 id="ambientde-observacao">Ambientde Observação</h3>
+<p>A observação foi realizada em uma clínica fonoaudiológica, dentro do Centro Médico Júlio Adnet em brasília, constituído por equipes focadas em fonoaudiologia, atendimento ao cliente, setor de finanças e gestão.</p>
+<p><img alt="Julio Adnet" src="../../img/julio_adnet.jpeg" />  </p>
+<h3 id="observando-e-levantando-requisitos">Observando e levantando requisitos</h3>
+<p>Pedro visitou a clínica e fixou-se no setor de finanças, observando o dia a dia dos especialistas. Tiago, um dos líderes da clínica e amigo pessoal de Pedro,  foi o responsável por realizarmos com sucesso essa técnica. Durante o processo Pedro reuniu as seguintes informações.</p>
+<ol>
+<li>O dinheiro que entra na empresa, a receita bruta, é investido através de uma corretora. </li>
+<li>O que é usado para pagamento de funcionários, impostos, despesas em geral retira-se da aplicação, pois são aplicações com um dia de crédito na conta, se retirarmos o dinheiro hoje, amanhã já está na conta, esse processo chama-se D1. </li>
+<li>Os investimentos feitos são de renda fixa, divididos entre pós fixados, investimentos atrelados a taxa de juros, e pré fixados, investimentos que trazem um bom retorno no cenário da queda de juros da taxa SELIC.</li>
+<li>Deve-se ser uma aplicação conservadora porque a empresa não pode ter nada de risco, o patrimônio não pode diminuir, apenas aumentar.</li>
+</ol>
+<h3 id="requisitos-levantados">Requisitos Levantados</h3>
+<ol>
+<li>Fazer com que o usuário possa investir seus fundos de maneira eficiente e segura.</li>
+<li>O sistema deve ficar sempre online para que transferências sejam feitas.</li>
+</ol></div>
+        
+        
+    </div>
+
+    <footer class="col-md-12 text-center">
+        
+        <hr>
+        <p>
+        <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p></small>
+
+        
+        
+    </footer>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="../../js/bootstrap-3.0.3.min.js"></script>
+    <script src="../../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>var base_url = "../.."</script>
+    
+    <script src="../../js/base.js"></script>
+    <script src="../../search/main.js"></script>
+
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    </body>
+
+</html>
