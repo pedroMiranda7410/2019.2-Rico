@@ -1,13 +1,27 @@
 site_name: Rico
 
+# nav:
+#     - Home: index.md
+#     - Disciplina: disciplina.md
+      # - Elicitacao: elicitacao/
+  #     - Priorizacao: elicitacao/priorizacao.md
+  #     - Requisitos: elicitacao/requisitos.md
+#     - Entregas: 
+#       - Entregas: entregas/entregas.md
+
 theme:
   name: 'material'
+  theme_dir: 'custom_theme'
   site_favicon: docs/img/icon-rico.png
   feature:
     tabs: true
   palette:
-    primary: '#211241'
+    primary: '#0A0742'
     accent: 'black'
   language: 'pt'
 
 dev_addr: '0.0.0.0:8000'
+extra_css:
+  - 'stylesheets/extra.css'
+extra_javascript:
+  - 'javascripts/extra.js'
