@@ -1,4 +1,4 @@
-## Bem-vindo à Rico
+![Home](img/icon-rico.png)
 
-![Home](img/home.png)
+<!-- ## Bem-vindo à Rico -->
 
