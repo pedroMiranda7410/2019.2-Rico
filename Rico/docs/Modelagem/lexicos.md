@@ -46,3 +46,9 @@
 | **Noção** | O sistema realiza o investimento automático, de acordo com o agendamento efetuado pelo [usuário](#Usuário) |
 | **Impacto** | <p>O [usuário](#Usuário) não necessita entrar na aplicação novamente para efetuar o investimento em determinada ação</p> |
 | **Classificação** | Verbo |
+
+### Histórico de revisões
+
+Data | Responsável | Versão | Alteração 
+---- | ----------- | ------ | ---------
+24/09/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1 | Adicionado léxicos de 1 á 6
