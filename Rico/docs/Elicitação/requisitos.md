@@ -1,6 +1,6 @@
 #Metodologia Utilizada
 
-Baseadi no **modelo Kano** e no **Desdobramento da Função Qualidade (QFD)** o grupo preocupou-se em levantar os requisitos categorizando-os de acordo com a satisfação de um stakeholder.
+Baseado no **modelo Kano** e no **Desdobramento da Função Qualidade (QFD)** o grupo preocupou-se em levantar os requisitos categorizando-os de acordo com a satisfação de um stakeholder.
 Na imagem abaixo podemos ver três categorias, categoria de requisitos surpresa, esperados e óbvios.  
     
 ![Satisfação do Stackholder](../img/satisfacao_stackholder.png)  
@@ -13,7 +13,7 @@ Na imagem abaixo podemos ver três categorias, categoria de requisitos surpresa,
 A partir dos conceitos apresentados, o grupo procurou realizar as seguintes técnicas para elicitar requisitos da melhor forma possível. A imagem abaixo retrata as técnicas utilizadas.  
 
 ![Tecnicas](../img/)  
-*Imagem 2:Técnicas itlizadas*
+*Imagem 2:Técnicas utilizadas*
 
 Para os requisitos surpresas utilizamos técnicas que necessitam amplamente da criatividade, como brainstorm e a técnica dos 6 chapéus.
 Já nos requisitos esperados, tentamos fazer a melhor entrevista possível, passando pelo método da observação e aprendizagem. Contando com o auxílio de questionário e utilizando também a técnica de análise de protocolo.  
