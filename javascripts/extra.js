@@ -29,5 +29,8 @@
         if (matches[index].textContent === "Home") {
             matches[index].textContent = "";
         }
+        else if (matches[index].textContent === "Lexicos") {
+            matches[index].textContent = "Léxicos";
+        }
     }
 })();

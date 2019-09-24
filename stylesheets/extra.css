@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 div span:first-child {
     color:transparent;
 }
@@ -17,6 +21,7 @@ div span:first-child {
 .md-flex__cell .md-logo i{
     color:transparent;
 }
+
 .md-flex__cell .md-logo i:after{
     position: absolute;
     background-image: url('https://www.rico.com.vc/assets/css/images/favicon.png');
@@ -78,6 +83,34 @@ article img{
     border-radius: 90px;
 
 }
+
+article table{
+    width: 100%;
+    border-top-right-radius: 45%;
+}
+
+.md-typeset .md-typeset__table {
+    display: block;
+}
+
+.md-typeset table:not([class]) th {
+    background-color: rgba(10,7,66,1);
+    color: #fff;
+}
+
+.md-typeset table:not([class]) th:last-child {
+    background-color: rgba(10,7,66,1);
+    color: #fff;
+    border-top-right-radius: 30px;
+    border-top: 2px solid rgba(255,61,0,0.8);
+    border-right: 6px solid rgba(255,61,0,0.6);
+}
+
+.md-typeset table:not([class]) a {
+    color:rgba(255,61,0,1);
+}
+
+
 
 .md-footer-nav {
     background-color: rgba(10,7,66,1);
