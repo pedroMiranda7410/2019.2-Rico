@@ -38,4 +38,20 @@ i{
     color: transparent;
 }
 
-/* background-image:url('yourimage.file'); */
+article {
+    height: 100%;
+}
+
+article h1{
+    text-align:center;
+}
+
+article img{
+    display:block;
+    margin: 0 auto;
+    justify-content:center;
+
+}
+footer {
+    margin-top: 100px;
+}

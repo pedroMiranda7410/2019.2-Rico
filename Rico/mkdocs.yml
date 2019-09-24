@@ -12,7 +12,7 @@ site_name: Rico
 theme:
   name: 'material'
   theme_dir: 'custom_theme'
-  site_favicon: docs/img/icon-rico.png
+  site_favicon: https://www.rico.com.vc/assets/css/images/favicon.png
   feature:
     tabs: true
   palette:

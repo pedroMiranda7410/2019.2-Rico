@@ -22,3 +22,12 @@
 // }
 
 // // addRow();
+
+(function () {
+    var matches = document.querySelectorAll("h1");
+    for(var index in matches) {
+        if (matches[index].textContent === "Home") {
+            matches[index].textContent = "";
+        }
+    }
+})();
