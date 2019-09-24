@@ -80,10 +80,27 @@ A equipe utilizou a técnica do brainstorming para levantar os requisitos  surpr
 
 * **Lucas Medeiros:** Dentro da filtragem de investimentos poderia ter um filtro por recomendação que, quando selecionado, apareciam apenas os investimentos mais adequados para o usuário naquela lista.
 
+###Como posso avaliar melhor o risco na realização de determinado investimento ?
+
+* **Lucas Leite**: Poderia haver um indicador de riscos semelhante a um termômetro, onde os níveis mais altos desse “termômetro” indicariam um risco maior de se realizar o investimento, estando esse indicador sempre ao lado de cada cada opção de investimento.
+* **Daniel Sousa**: Dados em formato de gráfico indicando os períodos de maior risco e quanto de dinheiro foi perdido/ganho por outros investidores.
+* **Luis Bruno**:  Os investimentos de maior risco poderiam ser indicados com uma etiqueta e então poderia clicar na etiqueta para obter mais informações. Uma tabela pode ser mostrada com o histórico de variação daquela ação mostrando o porquê de ser de alto risco.
+* **Lucas Medeiros**: O usuário poderia contar com um acervo de informações providas por outros investidores mais experientes, como opiniões, comentários e relatos acerca de cada investimento feito, dessa maneira os dados providos por usuários mais experientes ajudariam aqueles que estão começando a tomar uma decisão mais acertada.
+
 ###Requisitos Surpresa Levantados
 
-1. Informar o risco do investimento por meio de categorias
-2. Filtrar uma lista de investimentos por categorias, risco, rentabilidade e valor
+1. Proporcionar um simulador de investimentos
+2. Proporcionar que o usuário aprenda sobre investimento
+3. Proporcionar segurança por meio de digital
+4. Proporcionar uma experiência de usuário
+5. Indicação de investimento realizado por analistas
+6. Informar o risco do investimento por meio de categorias
+7. Filtrar uma lista de investimentos por categorias, risco, rentabilidade e valor
+8. Indicar a porcentagem de variação do valor do investimento no dia
+9. Atualizar de forma constante o valor do investimento, de maneira que o usuário veja a variação em tempo real
+10. Prover informações para o usuário sobre como determinado investimento variou seu valor ao longo dos últimos dias
+11. Dar a possibilidade pro usuário selecionar seus investimentos favoritos, os colocando em uma lista disponibilizada para o usuário
+
 
 #Requisitos Esperados
 
