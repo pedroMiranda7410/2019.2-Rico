@@ -12,7 +12,7 @@ Na imagem abaixo podemos ver três categorias, categoria de requisitos surpresa,
 
 A partir dos conceitos apresentados, o grupo procurou realizar as seguintes técnicas para elicitar requisitos da melhor forma possível. A imagem abaixo retrata as técnicas utilizadas.  
 
-![Tecnicas](../img/)  
+![Tecnicas](../img/tecnicas.png)  
 *Imagem 2:Técnicas utilizadas*
 
 Para os requisitos surpresas utilizamos técnicas que necessitam amplamente da criatividade, como brainstorm e a técnica dos 6 chapéus.
@@ -127,8 +127,40 @@ Pedro visitou a clínica e fixou-se no setor de finanças, observando o dia a di
 3. Os investimentos feitos são de renda fixa, divididos entre pós fixados, investimentos atrelados a taxa de juros, e pré fixados, investimentos que trazem um bom retorno no cenário da queda de juros da taxa SELIC.
 4. Deve-se ser uma aplicação conservadora porque a empresa não pode ter nada de risco, o patrimônio não pode diminuir, apenas aumentar.
 
-###Requisitos Levantados
+##Análise de Protocolo
+
+Para realizarmos a análise de protocolo do Rico foram separadas duas pessoas: Lucas e Bruno, onde uma das pessoas (Bruno) se coloca no papel de usuário da aplicação após efetuar um cadastro bem sucedido e desejar realizar algum tipo de investimento. A outra pessoa (Lucas), registra os passos realizados por Bruno para posteriormente levantar os tópicos de requisitos enumerados. A seguir temos o registro da narração do usuário:  
+“Eu já possuo uma conta no aplicativo, insiro somente meu usuario e minha senha, que possui uma segurança semelhante à de senha bancária. A primeira tela que me deparo após logar apresenta uma visão geral e um dashboard com os gráficos mostrando o resumo dos meus investimentos e variadas opções de investimentos. Como o meu perfil de investidor é conservador, procuro pelos investimentos de renda fixa ou tesouro direto, que são recomendados à mim pelo aplicativo.”  
+“Após escolher pelos investimentos de tesouro direto me deparo com diversas opções de investimento mostrando os atributos de cada um: rentabilidade, vencimento e valor mínimo. Escolho uma das opções clicando no ícone do carrinho de compras e me deparo com um formulário de confirmação onde coloco valor, quantidade, senha e a data agendada para efetuar a compra e confirmo o agendamento da compra clicando em comprar, que só possível porque já realizei transferência de saldo para minha conta da Rico.”  
+“Depois de clicar em comprar é exibida uma mensagem indicando que o agendamento foi realizado com sucesso, em seguida sou redirecionado para uma página com um quadro de acompanhamento do meu investimento, onde é apresentado o status, protocolo, emissão e valor da compra realizada.”  
+“Visando atualizar o meu perfil de investidor para visualizar e ser notificado com os investimentos mais adequados para mim clico na opção Perfil de Investidor na aba do usuário presente no menu superior e então sou redirecionado para um formulário onde respondo uma série de perguntas a respeito do meu engajamento nos variados tipos de  investimentos incluindo valores que possivelmente serão gastos futuramente, após o preenchimento do formulário confirmo a senha da minha conta para que o Rico registre os dados e me direcione sempre para os investimentos mais adequados para mim.”  
+
+
+###Requisitos Esperados Levantados
 
 1. Fazer com que o usuário possa investir seus fundos de maneira eficiente e segura.
 2. O sistema deve ficar sempre online para que transferências sejam feitas.
+3. O usuário deve ser capaz de criar uma nova conta com os dados da sua conta bancária, CPF e comprovante de residência.
+4. O usuário deve ser capaz de logar utilizando o seu nome de usuário e uma senha definida por ele no momento do cadastro.
+5. O Rico deve apresentar para o usuário os dados dos investimentos já realizados.
+6. O usuário deve ser capaz de escolher dentre várias opções e tipos de investimento.
+7. O usuário deve poder agendar a data que deseja para comprar os investimentos/ações.
+8. O usuário deve ser capaz de visualizar o retorno dos seus investimentos.  
 
+#Requisitos Óbvios
+
+Para o levantamento dos requistos óbvios é necessário identificar quais são os pontos mínimos e básicos para uma plicação nesse segmento. Para isso foram usados outros aplicativos da área para definir quais são os pontos em comum deste setor, além disso foram pesquisadas normas nacionais que regulam aplicações que atuam neste nicho.
+
+###Requisitos Óbvios Levantados
+
+1. Visualização do saldo
+2. Receber e realizar transferências (apenas para CPF do usuário)
+3. Histórico de transações
+4. Visualização do histórico de rentabilidade em gráfico de linha
+5. Visualização da distribuição dos rendimentos em gráfico de pizza
+6. Perfil do usuário
+7. Alteração de senha
+8. Área para ajuda
+9. Definir perfil do investidor
+10. Segurança ao guardar os dados do usuário
+11. Aplicação deve ser eficiente no que diz respeito ao seu desempenho e velocidade na hora de executar as funcionalidades
