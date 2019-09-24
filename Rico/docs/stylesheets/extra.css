@@ -17,6 +17,7 @@ div span:first-child {
 .md-flex__cell .md-logo i{
     color:transparent;
 }
+
 .md-flex__cell .md-logo i:after{
     position: absolute;
     background-image: url('https://www.rico.com.vc/assets/css/images/favicon.png');
