@@ -31,7 +31,7 @@ Tiago Miguel Caetano da Silva | 17/0046176 | [@tmcstiago](https://github.com/tmc
 <p align="justify">&emsp;
 O professor responsável por ministrar a matéria de Requisitos de Software no semestre 2019/2 é o André Barros.</p>
 
-### Histórico de revisões
+### Histórico de Revisões
 
 Data | Responsável | Versão | Alteração 
 ---- | ----------- | ------ | ---------
