@@ -432,7 +432,7 @@
 | **Impacto** |[Investimentos](#Investimento) podem possuir data de vencimento|
 | **Classificação** |Estado|
 
-### Histórico de revisões
+## Histórico de revisões
 
 Data | Responsável | Versão | Alteração 
 ---- | ----------- | ------ | ---------
