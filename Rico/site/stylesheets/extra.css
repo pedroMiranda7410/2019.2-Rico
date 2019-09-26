@@ -93,21 +93,21 @@ article table{
     display: block;
 }
 
-.md-typeset table:not([class]) th {
+.md-typeset table th:not(:last-child) {
     background-color: rgba(10,7,66,1);
     color: #fff;
 }
 
-.md-typeset table:not([class]) th:last-child {
+.md-typeset table th:last-child {
     background-color: rgba(10,7,66,1);
     color: #fff;
     border-top-right-radius: 30px;
     border-top: 2px solid rgba(255,61,0,0.8);
     border-right: 6px solid rgba(255,61,0,0.6);
-    
+
 }
 
-.md-typeset table:not([class]) a {
+.md-typeset table a {
     color:rgba(255,61,0,1);
 }
 

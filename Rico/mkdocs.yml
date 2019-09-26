@@ -3,9 +3,9 @@ site_name: Rico
 # nav:
 #     - Home: index.md
 #     - Disciplina: disciplina.md
-      # - Elicitacao: elicitacao/
-  #     - Priorizacao: elicitacao/priorizacao.md
-  #     - Requisitos: elicitacao/requisitos.md
+#       - Elicitacao: elicitacao/
+#       - Priorizacao: elicitacao/priorizacao.md
+#       - Requisitos: elicitacao/requisitos.md
 #     - Entregas: 
 #       - Entregas: entregas/entregas.md
 
