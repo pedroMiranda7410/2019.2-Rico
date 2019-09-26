@@ -150,6 +150,74 @@ Para realizarmos a análise de protocolo do Rico foram separadas duas pessoas: L
 <p align="justify">&emsp;
 “Visando atualizar o meu perfil de investidor para visualizar e ser notificado com os investimentos mais adequados para mim clico na opção Perfil de Investidor na aba do usuário presente no menu superior e então sou redirecionado para um formulário onde respondo uma série de perguntas a respeito do meu engajamento nos variados tipos de  investimentos incluindo valores que possivelmente serão gastos futuramente, após o preenchimento do formulário confirmo a senha da minha conta para que o Rico registre os dados e me direcione sempre para os investimentos mais adequados para mim.”</p>  
 
+### **Entrevistas**
+<p align="justify">&emsp;
+Entrevistas são importantes na criação de um excelente software. Sem conhecer as expectativas e os objetivos das partes interessadas e dos usuários, é altamente improvável que ambos ficarão satisfeitos. Deve-se entender e ouvir a perspectiva de cada entrevistado.</p>
+
+![Analyze](../img/enticon.png)
+<p align="justify">&emsp;
+O modelo de entrevista utilizado foi a o estruturado, representado por um roteiro de questões previamente estabelecidas, destacando as principais perguntas que deverão ser feitas a cada candidato. </p>
+
+#### **Perguntas**
+
+<p align="justify"><b>1.</b> Qual o seu perfil de investidor (conservador, moderado, agressivo)?
+Caso a resposta seja <i>Não</i> deve-se aplicar perguntas para definir perfil de investidor.</p>
+
+<p align="justify"><b>2.</b> Qual a sua distribuição entre renda fixa e renda variável?</p>
+<p align="justify"><b>3.</b> Qual a previsão para retirar os seus investimentos?</p>
+<p align="justify"><b>4.</b> Você faz uma simulação para rendimento dos seus investimentos?</p>
+<p align="justify"><b>5.</b> Como você prefere visualizar a sua carteira atual(graf pizza, linha, rendimentos mensais, semanais, diários, etc)?</p>
+<p align="justify"><b>6.</b> Quais informações você dá prioridade para avaliar um novo investimento?</p>
+
+#### **Perguntas para descobrir o perfil do investidor**
+<p align="justify">&emsp;
+O aplicativo rico possui uma aba para descobrir o perfil do investidor, basta aplicar com o entrevistado.</p>
+
+![Analyze](../img/entp.png)
+
+#### **Um pouco sobre perfil do investidor**
+<p align="justify">&emsp;
+Você pode ser conservador, moderado ou agressivo (também chamado de arrojado). A categoria é definida, de forma geral, de acordo com sua tolerância a riscos. Para saber qual é seu gosto ao risco, algumas características são analisadas.</p>
+<p align="justify">&emsp;
+Você será avaliado pela sua situação financeira (renda e patrimônio), idade, conhecimento do mercado e, claro, seus objetivos.Essas metas de vida normalmente possuem implicações financeiras. Então, é importante saber o prazo e a quantia de dinheiro para os seus objetivos. Os perfis do investidor são:</p>
+
+
+* <p align="justify">Conservador: Esse tipo de investidor prioriza a segurança em suas aplicações. Em sua diversificação de investimentos, o conservador deve manter a maior parte da sua carteira de investimentos em produtos de baixo risco. O conservador costuma ser uma pessoa com patrimônio já construído, que provavelmente tem mais de 40 anos e busca apenas a solidez do seu capital. Assim, ele não quer correr mais riscos. Ou então, seja um investidor ainda iniciante que não se sente seguro com os mercados mais dinâmicos.</p>
+
+* <p align="justify">Moderado: Esse investidor está entre os conservadores e os arrojados. Ele gosta de segurança, mas já possui tolerância a riscos de longo prazo. Assim, opta por investimentos mais arriscados dependendo da situação.</p>
+
+* <p align="justify">Arrojado ou Agressivo: Esse investidor não sente muito frio na barriga. Ele entende que as perdas a curto prazo são momentâneas e necessárias para aproveitar lucros mais altos a longo prazo.</p>
+
+#### Entrevistados
+
+##### Entrevistado 1
+![Analyze](../img/ent1.png)
+<p align="center"><i>Danillo Teixeira, Contador Mestre</i></p>
+<p align = "center"><i>Funcionário público em Ministério da Educação</i></p> 
+
+<p align="justify"><b>1. Qual o seu perfil de investidor (conservador, moderado, agressivo)?</b>
+<p align="justify"></p>
+<i>Moderado, prezo pela segurança de não perder dinheiro, mas às vezes gosto de arriscar um pouco mais.</i></p>
+
+<p align="justify"><b>2. Qual a sua distribuição entre renda fixa e renda variável?</b></p>
+<p align="justify">
+<i>Cerca de 60% fixa / 40% variável.</i></p>
+
+<p align="justify"><b>3. Qual a previsão para retirar os seus investimentos?</b></p>
+<p align="justify">
+<i>Sempre a longo prazo (+ de 10 anos). Recentemente retirei um dinheiro aplicado que me rendeu um bom lucro, usei-o para bancar grande parte de uma viagem para o exterior.</i></p>
+
+<p align="justify"><b>4. Você faz uma simulação para rendimento dos seus investimentos?</b></p>
+<p align="justify">
+<i>Sim. Apenas para renda fixa.</i></p>
+
+<p align="justify"><b>5. Como você prefere visualizar a sua carteira atual(graf pizza, linha, rendimentos mensais, semanais, diários, etc)?</b></p>
+<p align="justify"><i>Gráfico de pizza ,  rendimentos mensais seria bastante interessante.</i></p>
+
+<p align="justify"><b>6. Quais informações você dá prioridade para avaliar um novo investimento?</b></p>
+<p align="justify"><i>Segurança e rentabilidade, para ações, faço análise gráfica básica.</i></p>
+
+
 ### **Requisitos Esperados Levantados**
 
 <p align="justify"><b>1.</b> Fazer com que o usuário possa investir seus fundos de maneira eficiente e segura.</p>
@@ -186,13 +254,19 @@ Data | Responsável | Versão | Alteração
 18/08/2019 | [@tmcstiago](https://github.com/tmcstiago) | 1 | Adicionando Técnicas
 25/09/2019 | [@dansousamelo](http://github.com/dansousamelo) | 1.1 | Corrigindo formatação e adicionando conteúdo
 25/09/2019 | [@dansousamelo](http://github.com/dansousamelo) | 1.2 | Corrigindo formatação e adicionando conteúdo
+26/09/2019 | [@dansousamelo](http://github.com/dansousamelo) | 1.3 | Adicionando técnica de entrevista
+
 
 ### **Referências**
-* BRUM, Bruno; PENA, Leandro. Engenharia de Requisitos – Técnicas. Brasil, 27 abr. 2011. Disponível em: https://brunobrum.wordpress.com/2011/04/27/principais-tecnicas-de-levantamento-de-requisitos-de-sistemas/. Acesso em: 14 set. 2019.
+* <p align="justify">BRUM, Bruno; PENA, Leandro. Engenharia de Requisitos – Técnicas. Brasil, 27 abr. 2011. Disponível em: https://brunobrum.wordpress.com/2011/04/27/principais-tecnicas-de-levantamento-de-requisitos-de-sistemas/. Acesso em: 14 set. 2019.</p>
 
-* CALHEIROS, Rafaela. Escolhendo ferramentas: Six Thinking Hats: ou, simplesmente, os Seis Chapéus do Pensamento. Brasil, 5 jul. 2017. Disponível em: https://amenteemaravilhosa.com.br/a-tecnica-dos-seis-chapeus-para-pensar/. Acesso em: 15 set. 2019. 
+* <p align="justify">CALHEIROS, Rafaela. Escolhendo ferramentas: Six Thinking Hats: ou, simplesmente, os Seis Chapéus do Pensamento. Brasil, 5 jul. 2017. Disponível em: https://amenteemaravilhosa.com.br/a-tecnica-dos-seis-chapeus-para-pensar/. Acesso em: 15 set. 2019. 
 
-* RIBEIRO, J. L. D.; ECHEVESTE, M. E. & DANILEVICZ, A. M. F. A Utilização do QFD na Otimização de Produtos, Processos e Serviços. Série Monográfica Qualidade. Porto Alegre: UFRGS, 2000.
+* <p align="justify">RIBEIRO, J. L. D.; ECHEVESTE, M. E. & DANILEVICZ, A. M. F. A Utilização do QFD na Otimização de Produtos, Processos e Serviços. Série Monográfica Qualidade. Porto Alegre: UFRGS, 2000.</p>
 
-* ROOS, CRISTIANO; SARTORI, SIMONE; GODOY, LEONI PENTIADO. Modelo de KANO para a identificação de atributos capazes de superar as expectativas do cliente. Revista produção online, v. 9, n. 3, 2009. 
+* <p align="justify">ROOS, CRISTIANO; SARTORI, SIMONE; GODOY, LEONI PENTIADO. Modelo de KANO para a identificação de atributos capazes de superar as expectativas do cliente. Revista produção online, v. 9, n. 3, 2009.</p>
+
+* <p align="justify">RICO.COM.VC (Brasil). Qual o Seu Perfil de Investidor - Conservador, Moderado ou Arrojado?. [S. l.], 16 maio 2019. Disponível em: https://blog.rico.com.vc/perfil-de-investidor. Acesso em: 10 set. 2019..</p>
+
+* <p align="justify">DREXEL UNIVERSITY (Philadelphia, PA). TYPES OF INTERVIEWS. [S. l.], [21--]. Disponível em: https://drexel.edu/scdc/professional-pointers/interviewing/interview-types/. Acesso em: 10 set. 2019.</p>
 
