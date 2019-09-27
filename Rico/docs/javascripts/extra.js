@@ -36,8 +36,8 @@
 
     var images = document.querySelectorAll("img");
     for(var index in images) {
-        if (images[index] == images.firstChild) {
-            if(window.location.pathname == "/"){
+        if(window.location.pathname == "/"){    
+            if (images[index] == images.firstChild) {
                 images[index].style.borderRadius = "90px";
             }
             else{
