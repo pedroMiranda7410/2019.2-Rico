@@ -33,4 +33,20 @@
             matches[index].textContent = "Léxicos";
         }
     }
+
+    var images = document.querySelectorAll("img");
+    for(var index in images) {
+        if(window.location.pathname == "/"){    
+            if (images[index] == images.firstChild) {
+                images[index].style.borderRadius = "90px";
+            }
+            else{
+                images[index].style.borderRadius = "30px";
+            }
+        }
+        else {
+            images[index].style.borderRadius = "30px";
+        }
+    }
+
 })();
