@@ -47,6 +47,304 @@
 | **Impacto** | <p>O [usuário](#Usuário) não necessita entrar na aplicação novamente para efetuar o investimento em determinada ação</p> |
 | **Classificação** | Verbo |
 
+## Área de aprendizado (Portal Educacional)
+| **Nome**  | **Área de aprendizado (Portal Educacional)** |
+| ------------- | ------------- |
+| **Sinônimos** | Área Educacional, Área de estudo |
+| **Noção** | Uma área feita pela Equipe Rico, na qual, se baseia em distribuir conhecimento de todos os tipos que envolva [investimento](#Investir) para seus usuários |
+| **Impacto** | <p>Os [usuários](#Usuário) entram no Portal educacional e assiste cada vídeo explicativo sobre investimento</p> |
+| **Classificação** | Objeto |
+
+## Assinatura Eletrônica
+| **Nome**  | **Assinatura Eletrônica** |
+| ------------- | ------------- |
+| **Sinônimos** | Senha Virtual, código de acesso único |
+| **Noção** | O [usuários](#Usuário) cria sua Assinatura Eletrônica e o sistema responsável salva em seu banco de dados. Sempre que tiver que efetuar uma compra ou algo do tipo dentro do sistema, será requerida a assinatura do [usuários](#Usuário). |
+| **Impacto** | <p>Os [usuários](#Usuário) se encontra em uma posição de maior segunraça com a assinatura, pois dificulta o trabalho de um possível hacker. </p> |
+| **Classificação** | Verbo |
+
+## Alertas
+| **Nome**  | **Alertas** |
+| ------------- | ------------- |
+| **Sinônimos** | Notificações, Avisos, Comunicados |
+| **Noção** | Receber um alerta significa que o ou o sistema está dizendo ao [usuário](#Usuário) novidades que talvez ele possa não ter visto sobre ou o sistema está notificando o [usuário](#Usuário) sobre os processos que estão ocorrendo com seu [patrimônio](#Patrimônio). |
+| **Impacto** | <p>O [usuário](#Usuário) fica ciente do que está acontecendo </p> |
+| **Classificação** | Estado |
+
+## Ação
+| **Nome**  | **Ação** |
+| ------------- | ------------- |
+| **Sinônimos** | Título |
+| **Noção** | Título de renda variável que representa a menor fração do capital de uma empresa. É como se fosse um “pedacinho” dela.|
+| **Impacto** | <p>O [usuário](#Usuário) consegue comprar ações e ser sócio das empresas, nas quais, tiveram seus títulos comprados </p> |
+| **Classificação** | Objeto |
+
+## Banco
+| **Nome**  | **Banco** |
+| ------------- | ------------- |
+| **Sinônimos** | Título |
+| **Noção** | Instituição que presta serviços financeiros em geral, tais como: acolhimento dos depósitos de dinheiro dos clientes, concessão de empréstimos e negociação de títulos de crédito, públicos ou privados, entre outros..|
+| **Impacto** | <p>O [usuário](#Usuário) consegue ter uma conta neste banco, podendo realizar interações financeiras. </p> |
+| **Classificação** | Objeto |
+
+## Blog
+| **Nome**  | **Blog** |
+| ------------- | ------------- |
+| **Sinônimos** | Diário online, Diário virtual |
+| **Noção** | Blogs são páginas da internet onde regularmente são publicados diversos conteúdos, como textos, imagens ou vídeos, tanto podendo ser dedicados a um assunto específico como ser de âmbito bastante geral.|
+| **Impacto** | <p>O [usuário](#Usuário) consegue participar dos blogs, visualizando os vídeos sobre conteúdo financeiro, tirando dúvidas ou interagindo de outras formas </p> |
+| **Classificação** | Objeto |
+
+## Canal da Rico
+| **Nome**  | **Canal da Rico** |
+| ------------- | ------------- |
+| **Sinônimos** | intermediador, interventor |
+| **Noção** | Canal da Rico é uma forma, utilizando a plataforma "Youtube", de divulgar vídeos educaionais voltador para assuntos de educação financeira.|
+| **Impacto** | <p>Qualquer [usuário](#Usuário) ou não [usuário](#Usuário) consegue ter acesso aos vídeos educaionais de forma gratuita </p> |
+| **Classificação** | Objeto |
+
+## Carteira de Ações
+| **Nome**  | **Carteira de Ações** |
+| ------------- | ------------- |
+| **Sinônimos** | intermediador, interventor |
+| **Noção** | Conjunto de ações de diferentes empresas, de propriedade de pessoas físicas ou jurídicas.|
+| **Impacto** | <p>O [usuário](#Usuário) possui uma "carteira" com, ao invés de dinheiro, [ações](#Ação) dentro. O que quer dizer que seu dinheiro está sendo [investido](#Investir). </p> |
+| **Classificação** | Objeto |
+
+## Capital
+| **Nome**  | **Capital** |
+| ------------- | ------------- |
+| **Sinônimos** | Dinheiro total de empresa |
+| **Noção** | É a soma de todos os recursos, bens e valores, mobilizados para a constituição de uma empresa.|
+| **Impacto** | <p>Uma Empresa possui um certo capital que pode ser investido na própria empresa ou em outros investimentos </p> |
+| **Classificação** | Objeto |
+
+## CDI
+| **Nome**  | **CDI** |
+| ------------- | ------------- |
+| **Sinônimos** | Dinheiro total de empresa |
+| **Noção** | É uma modalidade de investimento pelo prazo de um dia útil, que os [bancos](#Banco) usam para aplicar os seus recursos excedentes ou para captar dinheiro de outros [bancos](#Banco) com o intuito de melhorar sua posição de liquidez. A taxa média diária do CDI é utilizada como um referencial para o custo do dinheiro (ou seja, os juros) e serve para avaliar o retorno das aplicações em fundos.|
+| **Impacto** | <p>O [usuário](#Usuário) pode chegar a investir nessa modalidade </p> |
+| **Classificação** | Objeto |
+
+## COE (Certificado de Operações Estruturadas)
+| **Nome**  | **COE (Certificado de Operações Estruturadas)** |
+| ------------- | ------------- |
+| **Sinônimos** | Certificado |
+| **Noção** | o COE permite que você faça investimentos mais complexos e lucrativos em ativos internacionais, ações, moedas, ETFs, índices e commodities. Tudo isso sem correr os riscos de perder parte do seu capital inicial.|
+| **Impacto** | <p>O [usuário](#Usuário) pode chegar a investir em mercados externos com este certificado </p> |
+| **Classificação** | Objeto |
+
+## Comparador de Investimentos
+| **Nome**  | **Comparador de Investimentos** |
+| ------------- | ------------- |
+| **Sinônimos** | acarear, conferir |
+| **Noção** | Comparador de Investimentos é um sistema da rico onde é possível simular investimentos de [fundos de investimentos](#Fundos-de-Investimentos), [Renda Fixa](#Renda-Fixa) e [#Renda Variável](#Renda-Variável).|
+| **Impacto** | <p>O [usuário](#Usuário) consegue utilizar o comparador de investimentos para definir suas estratégias e saber o que ele ganharia mais dinheiro </p> |
+| **Classificação** | Objeto |
+
+## Comunidade de Traders
+| **Nome**  | **Comunidade de Traders** |
+| ------------- | ------------- |
+| **Sinônimos** | comunhão, coletividade |
+| **Noção** | É um canal no youtube onde diferentes [Traders](#Day-Trade) profissionais dão dicas e educação financeira voltadas para [Day Trade](#Day-Trade).|
+| **Impacto** | <p>O [usuário](#Usuário) consegue participar das aulas e adiquirir conheicmento</p> |
+| **Classificação** | Objeto |
+
+## Conservador
+| **Nome**  | **Conservador** |
+| ------------- | ------------- |
+| **Sinônimos** | Seguro, Pé atrás |
+| **Noção** | Ser Conservador é ter medo de perder dinheiro ou querer estar em uma posição em que se sinta seguro.|
+| **Impacto** | <p>O [usuário](#Usuário) pode estar guardando seu dinheiro para algo maior e não deseja arriscar em certos tipos de investimentos que possam lhe dar prejuízos</p> |
+| **Classificação** | Estado |
+
+## Conta
+| **Nome**  | **Conta** |
+| ------------- | ------------- |
+| **Sinônimos** | Domínio |
+| **Noção** | Conta significa é um conjunto de dados que definem uma pessoa física ou jurídica, sendo armazenados dados para essa tal pessoa específica.|
+| **Impacto** | <p>O [usuário](#Usuário) tendo sua conta, ele consegue armazenar seu dinheiro, realizar transferências e entre outras operações</p> |
+| **Classificação** | Objeto |
+
+## Conta Corrente
+| **Nome**  | **Conta Corrente** |
+| ------------- | ------------- |
+| **Sinônimos** | Serviços financeiros |
+| **Noção** | inscrição em instituição bancária que dá direito a utilizar-lhe os serviços (p.ex., receber salário, guardar dinheiro, emitir cheques, fazer investimentos etc.).|
+| **Impacto** | <p>O [usuário](#Usuário) com uma conta corrente, ele consegue realizar diversos serviços em uma certa instituição bancária</p> |
+| **Classificação** | Objeto |
+
+## Contratos
+| **Nome**  | **Contratos** |
+| ------------- | ------------- |
+| **Sinônimos** | Acordo, Obrigação |
+| **Noção** | Acordo, trato em que duas ou mais pessoas assumem certos compromissos ou obrigações, ou asseguram entre si algum direito. |
+| **Impacto** | <p>O [usuário](#Usuário) que concordou e assinou os contratos terá de seguir os compromissos assumidos</p> |
+| **Classificação** | Objeto |
+
+## Corretora
+| **Nome**  | **Corretora** |
+| ------------- | ------------- |
+| **Sinônimos** | Instituição auxiliar |
+| **Noção** | Instituição auxiliar do sistema financeiro, que opera no mercado de capitais com títulos e valores mobiliários, em especial no mercado de ações. É a intermediária entre os investidores nas transações em bolsas de valores. Administra carteiras de ações, fundos mútuos e clubes de investimento, entre outras atribuições. |
+| **Impacto** | <p>A corretora promove a comunicação entre a compra de um [investimento](#Investir), efetuado por um [usuário](#Usuário)</p> |
+| **Classificação** | Objeto |
+
+## Crédito
+| **Nome**  | **Crédito** |
+| ------------- | ------------- |
+| **Sinônimos** | Confiança, Acreditar |
+| **Noção** | Crédito é um termo que traduz confiança, e deriva da expressão “crer”, acreditar em algo, ou alguém. crédito, sob o aspecto financeiro, significa dispor a um tomador, recursos financeiros para fazer frente a despesas ou investimentos, financiar a compra de bens, etc.. |
+| **Impacto** | <p>O [usuário](#Usuário) empresta dinheiro para as empresas esperando que ele receba seu valor de volta com juros </p> |
+| **Classificação** | Estado |
+
+## Custódia Remunerada
+| **Nome**  | **Custódia Remunerada** |
+| ------------- | ------------- |
+| **Sinônimos** | Guardar, Proteção |
+| **Noção** | O [investidor](#Investidor) permite que suas [ações](#Ação) sejam alugadas de maneira rápida, segura e com possibilidade de [rentabilidade](#Rentabilidade) extra. |
+| **Impacto** | O [investidor](#Investidor) pode ganhar uma [rentabilidade](#Rentabilidade) extra |
+| **Classificação** | Verbo |
+
+## Custos Operacionais
+| **Nome**  | **Custos Operacionais** |
+| ------------- | ------------- |
+| **Sinônimos** | Conta a serem pagas |
+| **Noção** | São todas as despesas que mantem o seu negócio em funciomento, esse custo sua empresa tem independemente do valor de vendas. São considerados custo operacional despesas como: Água, Luz, Internet, Funcionários, Telefone, Sistemas de Gestão Comercial, taxa de custódia e etc.. |
+| **Impacto** | Dependendo do [investimento](#Investimento) que o [usuário](#Usuário) faça, tal pode ter taxas extras a serem pagas, ou seja seu custo operacional, para manter as empresas funcionando  |
+| **Classificação** | Objeto |
+
+## Day Trade
+| **Nome**  | **Day Trade** |
+| ------------- | ------------- |
+| **Sinônimos** | Bolsa de Valores, Imposto de renda |
+| **Noção** | O day trade é uma estratégia de operação avançada que é muito utilizada por operadores experientes e com perfil arrojado. Ela consiste em comprar um ativo e vendê-lo no mesmo dia, buscando o lucro. Na média de trades, esse [investidor](#Investidor) ganha dinheiro vendendo ativos por um preço maior que o de compra. |
+| **Impacto** | O [investidor](#Investidor) ganha dinheiro na variação do preço de forma rápida com as oscilações. |
+| **Classificação** | Verbo |
+
+## Débito
+| **Nome**  | **Débito** |
+| ------------- | ------------- |
+| **Sinônimos** | Conta, dívida |
+| **Noção** | Aquilo que se deve. Parte de uma conta, oposta ao crédito, onde o negociante lança o que fornece ou paga. |
+| **Impacto** | Uma pessoa física ou jurídica estar devendo alguém, ou alguém apenas está no prejuízo |
+| **Classificação** | Estado |
+
+## Depósito
+| **Nome**  | **Depósito** |
+| ------------- | ------------- |
+| **Sinônimos** | Armazenado, depositar, Guardado |
+| **Noção** | Armazenamento de algo, no caso do sistema, no depósito de dinheiro. |
+| **Impacto** | O dinheiro de cada [usuário](#Usuário), seja ele investido ou parado, estará depositado em algum banco de dados, dizendo qual o tamanho de seu [patrimônio](#Patrimônio) |
+| **Classificação** | Verbo |
+
+## Destaques da Semana
+| **Nome**  | **Destaques da Semana** |
+| ------------- | ------------- |
+| **Sinônimos** | Novidades |
+| **Noção** | O sistema avisa ao [usuário](#Usuário) os destaques da semana, quais são as ações com maior porcentagens de rentabilidade para serem investidas  |
+| **Impacto** | O [usuário](#Usuário) consegue estar por dentro do mercado sem muito esforço |
+| **Classificação** | Verbo |
+
+## Dinheiro
+| **Nome**  | **Dinheiro** |
+| ------------- | ------------- |
+| **Sinônimos** | [patrimônio](#Patrimônio), meio de pagamento   |
+| **Noção** | tudo aquilo que pode ser convertido em dinheiro ([ações](#Ação), [títulos](#Título), cheques etc.) |
+| **Impacto** | O [usuário](#Usuário) pode utilizar seu dinheiro para investir, como por exemplo comprar [ações](#Ação) de empresas |
+| **Classificação** | Objeto |
+
+## Dinheiro Aplicado
+| **Nome**  | **Dinheiro Aplicado** |
+| ------------- | ------------- |
+| **Sinônimos** | Renda Passiva   |
+| **Noção** | Todo dinheiro do [usuário](#Usuário) que está sendo utilizado por outras empresas para seu crescimento, sendo cobrado com uma taxa, em cima to total. |
+| **Impacto** | O [usuário](#Usuário) com seu dinheiro aplicado, receberá todo dia uma valor em sua conta baseado na quantidade de dinheiro que foi aplicado em certo [investimento](#Investimento) |
+| **Classificação** | Estado |
+
+## Dúvidas
+| **Nome**  | **Dúvidas** |
+| ------------- | ------------- |
+| **Sinônimos** | indecisão, insegurança |
+| **Noção** | hesitação entre opiniões diversas ou várias possibilidades de ação. |
+| **Impacto** | O [usuário](#Usuário) com dúvida em certos assuntos financeiros pode acarretar em investir em alguma empresa que está falindo, por exemplo, e acabar entrando em um grande prejuízo |
+| **Classificação** | Estado |
+
+## Extrato
+| **Nome**  | **Extrato** |
+| ------------- | ------------- |
+| **Sinônimos** |    |
+| **Noção** |  |
+| **Impacto** |  |
+| **Classificação** |  |
+
+## Financiamento
+| **Nome**  | **Financiamento** |
+| ------------- | ------------- |
+| **Sinônimos** | [Investimento](#Investir) |
+| **Noção** | Financiamento é uma operação financeira em que a parte financiadora, em geral uma instituição financeira, fornece recursos para outra parte que está sendo financiada, de modo que esta possa executar algum investimento específico previamente acordado |
+| **Impacto** | O [usuário](#Usuário) pode financiar outras empresas recebendo em troca uma rentabilidade para seu bolso |
+| **Classificação** | Verbo |
+
+## Fundos de investimentos
+| **Nome**  | **Fundos de investimentos** |
+| ------------- | ------------- |
+| **Sinônimos** | Condomínios |
+| **Noção** | Um fundo de investimento é formado por uma carteira de ativos financeiros. Ele é oferecido por administradoras que disponibilizam cotas para captação de recursos.
+Basicamente, ele funciona como um condomínio, onde cada morador adquire uma cota (um apartamento), paga uma mensalidade para a administração e segue algumas regras preestabelecidas.
+No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da carteira como, fazer novas aquisições ou vendas.  |
+| **Impacto** | O [usuário](#Usuário) investindo em um fundo de investimento, por necessitar de um valor maior á ser investido, terá uma grande possibilidade de ter um retorno maior |
+| **Classificação** | Objeto |
+
+## Gráfico
+| **Nome**  | **Gráfico** |
+| ------------- | ------------- |
+| **Sinônimos** | Diagrama, esboço, esquema, mapa |
+| **Noção** | Gráfico é a tentativa de se expressar visualmente dados ou valores numéricos, de maneiras diferentes, assim facilitando a compreensão dos mesmos. |
+| **Impacto** | Com os Gráficos do sistema, o [usuário](#Usuário) consegue efetuar simulações, avaliar seus investimentos de forma rápida e prática |
+| **Classificação** | Objeto |
+
+## Imposto de Renda
+| **Nome**  | **Imposto de Renda** |
+| ------------- | ------------- |
+| **Sinônimos** | imposto sobre o rendimento |
+| **Noção** | O imposto sobre a renda é um tributo da espécie imposto existente em vários países, em que cada contribuinte, seja ele pessoa física ou pessoa jurídica, é obrigado a pagar uma certa porcentagem de sua renda ao governo, nacional ou regional, a depender de cada jurisdição |
+| **Impacto** | Dependendo do [patrimônio](#Patrimônio) de um [usuário](#Usuário) e de seu investimento, ele deve pagar uma taxa que será calculada a partir da renda do [usuário](#Usuário) para o governo |
+| **Classificação** | Estado |
+
+## Inflação
+| **Nome**  | **Inflação** |
+| ------------- | ------------- |
+| **Sinônimos** | Aumento de preços |
+| **Noção** | aumento contínuo e generalizado dos preços de bens e serviços em um sistema econômico. |
+| **Impacto** | Dependendo do valor da inflação, certos [investimentos](#Investir) terão seus valores aumentados ou diminuidos para compra |
+| **Classificação** | Estado |
+
+## Informe de rendimentos
+| **Nome**  | **Informe de rendimentos** |
+| ------------- | ------------- |
+| **Sinônimos** |  Documento sobre imposto de renda   |
+| **Noção** | O Informe de Rendimento é um documento utilizado para a fazer  Declaração do Imposto de Renda, ele prova os seus ganhos. Os bancos enviam Informes de Rendimento consolidando as operações e posições financeiras do ano base, como valores depositados na conta corrente e valores investidos em produtos financeiros e seus rendimentos. O envio ocorre no início do ano e a data limite para a preparação dos informes por parte dos bancos varia de ano para ano. |
+| **Impacto** | Documento que comprova os dados financeiros do [usuário](#Usuário) para o pagamento do imposto de renda |
+| **Classificação** | Objeto |
+
+## Instituição Financeira
+| **Nome**  | **Instituição Financeira** |
+| ------------- | ------------- |
+| **Sinônimos** | Associação financeira, corporação financeira |
+| **Noção** | Instituição financeira é uma organização cuja finalidade é otimizar a alocação de capitais financeiros próprios e/ou de terceiros, obedecendo uma correlação de risco, custo e prazo[1] que atenda aos objetivos dos seus patrocinadores (no sentido da palavra inglesa stakeholder), incluindo pessoas físicas ou jurídicas que tenham interesses em sua operação como acionistas, clientes, colaboradores, Cooperados, fornecedores, agências reguladoras do mercado onde a organização opere. |
+| **Impacto** | A Insituição auxilia nos processos de investimentos para outras empresas |
+| **Classificação** | Objeto |
+
+## Investimentos Pós-fixados
+| **Nome**  | **Investimentos Pós-fixados** |
+| ------------- | ------------- |
+| **Sinônimos** | Rentabilidade oculta |
+| **Noção** | Os investimentos pós-fixados são aqueles em que você NÃO sabe qual será o rendimento. A rentabilidade de um pós-fixado é vinculada a um indexador externo e você só saberá o rendimento final no dia do resgate. Os indexadores mais comuns são CDI, SELIC, IPCA e IGP-M, mas existem outros indicadores que também podem ter essa função. |
+| **Impacto** | Nas aplicações pós-fixadas, a rentabilidade de seu investimento vai variar durante todo o período. Como está vinculada aos indexadores, a rentabilidade acompanha o momento da economia do país. Se o seu investimento estiver indexado ao IPCA, por exemplo, seu rendimento sempre estará acima da inflação. |
+| **Classificação** | Objeto |
+
 ## Investimentos Pré-fixados
 | **Nome**  | **Investimentos Préfixados** |
 | ------------- | ------------- |
@@ -436,6 +734,7 @@
 
 Data | Responsável | Versão | Alteração 
 ---- | ----------- | ------ | ---------
-24/09/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 0.1 | Adicionado léxicos de 1 á 6
-24/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 0.2 | Adicionado léxicos de 46 á 80
-25/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 0.3 | Adicionado léxicos de 81 á 93
+24/09/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1 | Adicionado léxicos de 1 á 6
+24/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.1 | Adicionado léxicos de 46 á 80
+25/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2 | Adicionado léxicos de 81 á 93
+27/09/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.3 | Adicionado léxicos 7 á 45
