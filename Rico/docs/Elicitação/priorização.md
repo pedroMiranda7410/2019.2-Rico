@@ -47,7 +47,62 @@ Essa técnica será utilizada para checar a importância de cada requisito levan
 | RNF04         | Aplicação deve ser eficiente no que diz respeito ao seu desempenho e velocidade na hora de executar as funcionalidade | Must   |
 | RNF05         | O sistema deve ficar sempre online para que transferências sejam feitas                                               | Must   |
 
+#First Things First
+
+O First Things First é uma técnica de priorização de requisitos que visa definir as tarefas que devem ser feitas primeiro (mais importantes) e as que devem ser feitas posteriormente (menos importantes).     
+
+**Metodologia:**     
+**1 -** Uma lista com todos os requisitos é feita e os requisitos que estão logicamente ligados são retirados da lista.
+
+**2 -** O benefício que cada recurso oferece ao cliente/negócio é estimado.
+
+**3 -** A penalidade que o negócio sofreria caso o recurso não seja incluído é estimada.
+
+**4 -** A coluna de valor total é preenchida, sendo a soma do benefício e da penalidade, junto aos pesos.
+
+**5 -** O custo de implementação com base na complexidade de implementação é estimado.
+
+**6 -** O grau de risco com base na viabilidade, conhecimento, uso de tecnologias desconhecidas é estimado.
+
+**7 -** A prioridade (p) é calculada: p = valor% = (custo% * peso custo + risco% * peso risco).
+
+**8 -** A lista é ordenada em ordem decrescente de prioridade.
+
+**Observação:** Todos os valores estimados são entre 1 e 9.
+
+**Conclusão:** As funcionalidades no topo da lista têm o melhor equilíbrio entre valor, custo e risco e devem ser priorizadas.
+
+| Requisito | Benefício | Penalidade | Valor Total | Valor%  | Custo Relativo | Custo%  | Risco Relativo | Risco%  | Prioridade |
+| --------- | --------- | ---------- | ----------- | ------- | -------------- | ------- | -------------- | ------- | ---------- |
+| RF11      | 8         | 9          | 17          | 17,34   | 2              | 6,66    | 1              | 3,44    | 1,71       |
+| RF01      | 9         | 9          | 18          | 18,36   | 5              | 16,66   | 3              | 10,34   | 0,68       |
+| RF16      | 5         | 4          | 9           | 9,18    | 3              | 10      | 1              | 3,44    | 0,68       |
+| RF04      | 8         | 9          | 17          | 17,34   | 3              | 10      | 7              | 24,13   | 0,50       |
+| RF08      | 9         | 9          | 18          | 18,36   | 7              | 23,3    | 9              | 31,03   | 0,33       |
+| RF14      | 6         | 4          | 10          | 10,20   | 5              | 16,66   | 4              | 13,79   | 0,33       |
+| RF15      | 6         | 3          | 9           | 9,18    | 5              | 16,66   | 4              | 13,79   | 0,30       |
+| **TOTAL** | **51**    | **47**     | **98**      | **100** | **30**         | **100** | **29**         | **100** | **-**      |
+
+**RF01** - O usuário deve ser capaz de criar uma nova conta com os dados da sua conta bancária, CPF e comprovante de residência
+
+**RF04** - O usuário deve ser capaz de escolher dentre várias opções e tipos de investimento
+
+**RF08** - O usuário deve ser capaz de receber e realizar transferências
+
+**RF11** - O usuário deve ter acesso ao próprio perfil
+
+**RF14** - O usuário deve ter acesso ao questionário que define seu perfil de investidor
+
+**RF15** - Proporcionar um simulador de investimentos
+
+**RF16** - Proporcionar que o usuário aprenda sobre investimento
+
+
 ### **Histórico de Revisões**
-| Data       | Responsável                                        | Versão | Alteração                    |
-| ---------- | -------------------------------------------------- | ------ | ---------------------------- |
-| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando tabela do MoSCoW |
+| Data       | Responsável                                        | Versão | Alteração                      |
+| ---------- | -------------------------------------------------- | ------ | ------------------------------ |
+| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando tabela do MoSCoW   |
+| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando First Things First |
+
+### **Referências**
+* <p align="justify">SERRANO, Maurício; SERRANO, Milene. Aula de elicitação, modelagem e análise de requisitos. Requisitos de Software Aula 7, [S. l.], p. 31-40, 3 abr. 2018. E-book.</p>
