@@ -2137,3 +2137,6 @@ A ordem de venda será enviada para a B3 e a informação referente a ordem fica
 Data | Responsável | Versão | Alteração 
 ---- | ----------- | ------ | ---------
 29/09/2019 | [@tmcstiago](https://github.com/tmcstiago) e [@medeiroslucas](https://github.com/medeiroslucas) | 1 | Adiciona os Casos de Uso
+
+## **Referências**
+ * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11; Disponível em https://aprender.ead.unb.br/pluginfile.php/727236/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf.</p>
