@@ -31,3 +31,6 @@ Data | Responsável | Versão | Alteração
 ---- | ----------- | ------ | ---------
 15/09/2019 | [@tmcstiago](https://github.com/tmcstiago) | 1 | Adicionando primeiras versões do Rich Picture
 26/09/2019 | [@dansousamelo](http://github.com/dansousamelo) | 1.1 | Corrigindo formatação e adicionando segunda versão do Rich Picture
+
+## **Referências**
+ * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 4; Disponível em https://aprender.ead.unb.br/pluginfile.php/706393/mod_resource/content/1/Requisitos%20-%20Aula%2004.pdf.</p>
