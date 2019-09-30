@@ -738,3 +738,12 @@ Data | Responsável | Versão | Alteração
 24/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.1 | Adicionado léxicos de 46 á 80
 25/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2 | Adicionado léxicos de 81 á 93
 27/09/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.3 | Adicionado léxicos 7 á 45
+
+## Referências
+* <p align="justify">RICO.COM.VC (Brasil). Aprenda com o apoio do melhor conteúdo. Brasil, 2011. Disponível em: https://www.rico.com.vc/aprenda. Acesso em: 25 set. 2019.</p>
+
+ * <p align="justify">RICO.COM.VC (Brasil). Dicionário de Finanças. Brasil, 2011. Disponível em: https://www.rico.com.vc/aprenda/dicionario-de-financas. Acesso em: 25 set. 2019.</p>
+
+ * <p align="justify">RICO.COM.VC (Brasil). Educação Financeira - Conceitos e 11 Dicas Para Ficar Rico. Brasil, 2011. Disponível em: https://blog.rico.com.vc/educacao-financeira. Acesso em: 25 set. 2019.</p>
+
+ * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10; Disponível em https://aprender.ead.unb.br/pluginfile.php/725948/mod_resource/content/1/Aula%2010.pdf.</p>

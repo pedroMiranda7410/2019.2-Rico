@@ -45,18 +45,6 @@
 | **Exceção** | <p>1. A internet parar de funcionar no meio da ação</p><p>2. O [usuário](#Usuário) não ter dinheiro suficiente pra comprar determinada ação</p> |
 
 
- ##  Depositar na conta da Rico
-| **Título**  | **Depositar na conta da Rico** |
-| ------------- | ------------- |
-| **Objetivo**  | O usuário pode depositar dinheiro do seu banco para a sua conta Rico e investi-lo|
-| **Contexto** | <p> **Pré-condição:** Ter uma conta bancária e uma conta na Rico</p><p>**Pós-condição:** o usuário terá o dinheiro na sua conta Rico e poderá investi-lo</p>  |
-| **Atores** | [Usuário](#Usuário), Sistema, Banco|
-| **Recursos** | Acesso a internet, ter um smartphone ou computador com acesso a internet|
-| **Episódios** | <p>1. O [usuário](#Usuário) não possui dinheiro na conta Rico</p><p>2. O [usuário](#Usuário) quer investir e para isso necessita ter dinheiro na conta Rico</p><p>3. O [usuário](#Usuário) realiza uma transferência de um banco para a conta Rico</p> <p>O [usuário](#Usuário) possui dinheiro na conta rico</p> <p>O banco do usuário envia o dinheiro para a conta Rico</p><p>O sistema recebe dinheiro do banco </p>|
-| **Restrições** | Fluxo interativo |
-| **Exceção** | <p>A internet parar de funcionar no meio da ação</p><p>O [usuário](#Usuário) fechar o aplicativo durante a ação</p><p>O usuário não possui dinheiro</p> <p>Não estar no horário de transferência bancária</p>|
-
-
 ##  Consultar patrimônio
 | **Título**  | **Consultar patrimônio** |
 | ------------- | ------------- |
@@ -370,3 +358,13 @@ Data | Responsável | Versão | Alteração
 26/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1 | Adicionado cenários de 17 á 23
 26/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.1 | Adicionado cenários de 17 á 30
 27/09/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.2 | Adicionado cenários de 1 á 16
+
+## Referências
+* <p align="justify">RICO.COM.VC (Brasil). Aprenda com o apoio do melhor conteúdo. Brasil, 2011. Disponível em: https://www.rico.com.vc/aprenda. Acesso em: 25 set. 2019.</p>
+
+ * <p align="justify">RICO.COM.VC (Brasil). Dicionário de Finanças. Brasil, 2011. Disponível em: https://www.rico.com.vc/aprenda/dicionario-de-financas. Acesso em: 25 set. 2019.</p>
+
+ * <p align="justify">RICO.COM.VC (Brasil). Educação Financeira - Conceitos e 11 Dicas Para Ficar Rico. Brasil, 2011. Disponível em: https://blog.rico.com.vc/educacao-financeira. Acesso em: 25 set. 2019.</p>
+
+ * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10; Disponível em https://aprender.ead.unb.br/pluginfile.php/725948/mod_resource/content/1/Aula%2010.pdf.</p>
+

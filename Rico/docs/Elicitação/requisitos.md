@@ -7,7 +7,7 @@ Na imagem abaixo podemos ver três categorias, categoria de requisitos surpresa,
 *Imagem 1: categorização dos requisitos a seta a esquerda simboliza o grau de satisfação do stakeholder.*
 
 * <p align="justify"><b>Requitos Esperados</b>: São requisitos fundamentais no sistema, deve-se entender o que foi pedido. Se esses requisitos estiverem no sistema, deixarão o stakeholder satisfeito, pois o sistema propõe o que foi pedido.</p>
-* <p align="justify"><b>Requisitos Surpresa:</b> São aqueles requisitos que o stakeholder não solicitou, mas você como engenheiro de requisitos estudou muito bem a ideia, deve-se aprender a achar, e propôs além dos requisitos esperados, deixando o stakeholder mais satisfeito ainda.</p>
+* <p align="justify"><b>Requisitos Surpresa:</b> São aqueles requisitos que o stakeholder não solicitou, mas você como engenheiro de requisitos estudou muito bem a ideia, deve-se aprender a achar, e propor além dos requisitos esperados, deixando o stakeholder mais satisfeito ainda.</p>
 * <p align="justify"><b>Requisitos Óbvios:</b> São aqueles requisitos óbvios para o stakeholder, mas para quem irá desenvolver não. Se não entregarmos esses requisitos causará muita insatisfação ao cliente.</p>
 
 <p align="justify">&emsp;

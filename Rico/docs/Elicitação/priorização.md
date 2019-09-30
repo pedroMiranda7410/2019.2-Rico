@@ -1,15 +1,16 @@
-#MOSCOW
+## **MOSCOW**
+<p align="justify">&emsp;
+O MoSCoW é uma técnica de priorização de requisitos, onde todos os requisitos são analisados e, a cada um é mensurado um grau de importância, dado por uma letra das 4 palavras que compõem o MoSCoW:</p>  
 
-O MoSCoW é uma técnica de priorização de requisitos, onde todos os requisitos são analisados e, a cada um é mensurado um grau de importância, dado por uma letra das 4 palavras que compõem o MoSCoW:  
+* <p align="justify">Must: são as funcionalidades mais importantes do projeto, aquelas que mais agregam valor e que, sem elas, o projeto não pode ser entregue.</p>
+* <p align="justify">Should: funcionalidades que também são importantes, mas não necessárias para entrega (pelo menos inicialmente).</p>
+* <p align="justify">Could: funcionalidades desejáveis, que agregam valor ao produto e melhoram a experiência com o cliente.</p>
+* <p align="justify">Would: todas as funcionalidades que não serão desenvolvidas no momento pois não agregam valor ao produto.</p>
+  
+<p align="justify">&emsp;
+Essa técnica será utilizada para checar a importância de cada requisito levantado da aplicação Rico. A metodologia utilizada para o levantamento de priorização de requisitos é análoga à técnica de Planning poker onde cada integrante dá um valor à um requisito e então é comparado com o valor de prioridade dos outros membros da equipe. O valor do requisito é definido quando todos os integrantes da equipe entram em consenso.</p>
 
-* Must: são as funcionalidades mais importantes do projeto, aquelas que mais agregam valor e que, sem elas, o projeto não pode ser entregue.
-* Should: funcionalidades que também são importantes, mas não necessárias para entrega (pelo menos inicialmente).
-* Could: funcionalidades desejáveis, que agregam valor ao produto e melhoram a experiência com o cliente.
-* Would: todas as funcionalidades que não serão desenvolvidas no momento pois não agregam valor ao produto.  
-
-Essa técnica será utilizada para checar a importância de cada requisito levantado da aplicação Rico. A metodologia utilizada para o levantamento de priorização de requisitos é análoga à técnica de Planning poker onde cada integrante dá um valor à um requisito e então é comparado com o valor de prioridade dos outros membros da equipe. O valor do requisito é definido quando todos os integrantes da equipe entram em consenso.
-
-####MoSCoW - Requisitos Funcionais
+### **MoSCoW - Requisitos Funcionais**
 
 | Identificador | Descrição                                                                                                                         | Valor  |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -37,7 +38,7 @@ Essa técnica será utilizada para checar a importância de cada requisito levan
 | RF22          | Prover informações para o usuário sobre como determinado investimento variou seu valor ao longo dos últimos dias                  | Should |
 | RF23          | Dar a possibilidade pro usuário selecionar seus investimentos favoritos, os colocando em uma lista disponibilizada para o usuário | Could  |
 
-####MoSCoW - Requisitos Não Funcionais
+### MoSCoW - Requisitos Não Funcionais
 
 | Identificador | Descrição                                                                                                             | Valor  |
 | ------------- | --------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -47,9 +48,9 @@ Essa técnica será utilizada para checar a importância de cada requisito levan
 | RNF04         | Aplicação deve ser eficiente no que diz respeito ao seu desempenho e velocidade na hora de executar as funcionalidade | Must   |
 | RNF05         | O sistema deve ficar sempre online para que transferências sejam feitas                                               | Must   |
 
-#First Things First
-
-O First Things First é uma técnica de priorização de requisitos que visa definir as tarefas que devem ser feitas primeiro (mais importantes) e as que devem ser feitas posteriormente (menos importantes).     
+## **First Things First**
+<p align="justify">&emsp;
+O First Things First é uma técnica de priorização de requisitos que visa definir as tarefas que devem ser feitas primeiro (mais importantes) e as que devem ser feitas posteriormente (menos importantes).</p>
 
 **Metodologia:**     
 **1 -** Uma lista com todos os requisitos é feita e os requisitos que estão logicamente ligados são retirados da lista.
@@ -102,7 +103,8 @@ O First Things First é uma técnica de priorização de requisitos que visa def
 | Data       | Responsável                                        | Versão | Alteração                      |
 | ---------- | -------------------------------------------------- | ------ | ------------------------------ |
 | 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando tabela do MoSCoW   |
-| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando First Things First |
+| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1      | Adicionando First Things First |
+| 30/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2      | Adicionando Correções|
 
-### **Referências**
+## **Referências**
 * <p align="justify">SERRANO, Maurício; SERRANO, Milene. Aula de elicitação, modelagem e análise de requisitos. Requisitos de Software Aula 7, [S. l.], p. 31-40, 3 abr. 2018. E-book.</p>
