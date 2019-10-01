@@ -103,8 +103,8 @@ O First Things First é uma técnica de priorização de requisitos que visa def
 | Data       | Responsável                                        | Versão | Alteração                      |
 | ---------- | -------------------------------------------------- | ------ | ------------------------------ |
 | 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando tabela do MoSCoW   |
-| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1      | Adicionando First Things First |
-| 30/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2      | Adicionando Correções|
+| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1    | Adicionando First Things First |
+| 30/09/2019 | [@dansousamelo](https://github.com/dansousamelo)   | 1.2    | Adicionando Correções          |
 
 ## **Referências**
 * <p align="justify">SERRANO, Maurício; SERRANO, Milene. Aula de elicitação, modelagem e análise de requisitos. Requisitos de Software Aula 7, [S. l.], p. 31-40, 3 abr. 2018. E-book.</p>

@@ -8,7 +8,7 @@ O escopo deste documento engloba o aplicativo da Rico, que oferece diversas opç
 Acesse as abreviações, definições e acrônimos na página dos [Léxicos](https://requisitos-de-software.github.io/2019.2-Rico/Modelagem/lexicos/).
 
 ### **Visão geral**
-Os requisitos abordados no documento de especificação suplementar foram orientados pelo FURPS+, que orienta a qualidade do produto por 4 atributos principais (Funcionalidade, Usabilidade, Confiabilidade (Reability), Performance e Suportabilidade).
+Os requisitos abordados no documento de especificação suplementar foram orientados pelo FURPS+, que orienta a qualidade do produto por 5 atributos principais (Funcionalidade, Usabilidade, Confiabilidade (Reability), Performance e Suportabilidade).
 
 ### **Usabilidade**
 - **Linguagem adequada ao perfil de usuário(investidor):**
