@@ -3,8 +3,8 @@
 | **Nome**  | **Agência** |
 | ------------- | ------------- |
 | **Sinônimos**  | Agência, Agências, Escritório, filial |
-| **Noção** |O [usuário](#Usuário) possui uma agência para [depósito](#Depósito) em sua [conta](#Conta) rico |
-| **Impacto** | <p>O [usuário](#Usuário) pode criar [conta](#Conta)</p> <p>O [usuário](#Usuário) pode realizar [Depósito](#Depósito)</p><p>O [usuário](#Usuário) pode realizar [Transferências](#Transferências)</p>  |
+| **Noção** |O [usuário](./#usuario) possui uma agência para [depósito](./#deposito) em sua [conta](./#conta) rico |
+| **Impacto** | <p>O [usuário](./#usuario) pode criar [conta](./#conta)</p> <p>O [usuário](./#usuario) pode realizar [Depósito](./#deposito)</p><p>O [usuário](./#usuario) pode [transferir](./#transferir) [dinheiro](./#dinheiro)</p>  |
 | **Classificação** |objeto |
 
 ## Agressivo
@@ -19,32 +19,32 @@
 | **Nome**  | **Ajuda (FAQ)** |
 | ------------- | ------------- |
 | **Sinônimos**  | Amparo, beneficiamento, auxílio |
-| **Noção** | O sistema auxilia, também, através do FAQ(frequently Asked Questions ou Perguntas Frequentes) onde o [usuário](#Usuário) venha a ter uma dúvida de uso e nessa aba de ajuda ele consegue ver que alguém teve o mesmo erro e sua resolução do problema está disponível em tal página |
-| **Impacto** | O [usuário](#Usuário) terá maior agilidade e eficiência no uso da plataforma |
+| **Noção** | O sistema auxilia, também, através do FAQ(frequently Asked Questions ou Perguntas Frequentes) onde o [usuário](./#usuario) venha a ter uma dúvida de uso e nessa aba de ajuda ele consegue ver que alguém teve o mesmo erro e sua resolução do problema está disponível em tal página |
+| **Impacto** | O [usuário](./#usuario) terá maior agilidade e eficiência no uso da plataforma |
 | **Classificação** | Verbo |
 
 ## Alavancar
 | **Nome**  | **Alavancar** |
 | ------------- | ------------- |
 | **Sinônimos** | Impulsionar, incentivar, progredir |
-| **Noção** | Um serviço pago da plataforma que, por meio de [Day Trades](#Day-Trade), pode aumentar o [patrimônio](#Patrimônio) do [usuário](#Usuário) em até 25 vezes |
-| **Impacto** | O serviço promove um aumento no [patrimônio](#Patrimônio) do [usuário](#Usuário) |
+| **Noção** | Um serviço pago da plataforma que, por meio de [Day Trades](#Day-Trade), pode aumentar o [patrimônio](#Patrimônio) do [usuário](./#usuario) em até 25 vezes |
+| **Impacto** | O serviço promove um aumento no [patrimônio](#Patrimônio) do [usuário](./#usuario) |
 | **Classificação** | Verbo |
 
 ## Alvo Programado
 | **Nome**  | **Alvo Programado** |
 | ------------- | ------------- |
 | **Sinônimos** | Alvo identificado, Oportunidades de Capital |
-| **Noção** | O time identifica boas oportunidades de ganhos no mercado e sugere uma operação pré-programada com preço de compra e preços de venda, cabendo ao [usuário](#Usuário), se concordar com a estratégia, informar apenas a quantidade desejada e deixar a operação prosseguir de modo automático. |
-| **Impacto** | <p>O [usuário](#Usuário), mesmo sem saber [investir](#Investir), pode [investir](#Investir) utilizando esse serviço</p><p> Diminui o esforço e trabalho do [usuário](#Usuário) para [investir](#Investir) seu [patrimônio](#Patrimônio)</p> |
+| **Noção** | O time identifica boas oportunidades de ganhos no mercado e sugere uma operação pré-programada com preço de compra e preços de venda, cabendo ao [usuário](./#usuario), se concordar com a estratégia, informar apenas a quantidade desejada e deixar a operação prosseguir de modo automático. |
+| **Impacto** | <p>O [usuário](./#usuario), mesmo sem saber [investir](#Investir), pode [investir](#Investir) utilizando esse serviço</p><p> Diminui o esforço e trabalho do [usuário](./#usuario) para [investir](#Investir) seu [patrimônio](#Patrimônio)</p> |
 | **Classificação** | Verbo |
 
 ## Aplicação Automática
 | **Nome**  | **Aplicação Automática** |
 | ------------- | ------------- |
 | **Sinônimos** | Acompanhamento |
-| **Noção** | O sistema realiza o investimento automático, de acordo com o agendamento efetuado pelo [usuário](#Usuário) |
-| **Impacto** | <p>O [usuário](#Usuário) não necessita entrar na aplicação novamente para efetuar o investimento em determinada ação</p> |
+| **Noção** | O sistema realiza o investimento automático, de acordo com o agendamento efetuado pelo [usuário](./#usuario) |
+| **Impacto** | <p>O [usuário](./#usuario) não necessita entrar na aplicação novamente para efetuar o investimento em determinada ação</p> |
 | **Classificação** | Verbo |
 
 ## Área de aprendizado (Portal Educacional)
@@ -52,23 +52,23 @@
 | ------------- | ------------- |
 | **Sinônimos** | Área Educacional, Área de estudo |
 | **Noção** | Uma área feita pela Equipe Rico, na qual, se baseia em distribuir conhecimento de todos os tipos que envolva [investimento](#Investir) para seus usuários |
-| **Impacto** | <p>Os [usuários](#Usuário) entram no Portal educacional e assiste cada vídeo explicativo sobre investimento</p> |
+| **Impacto** | <p>Os [usuários](./#usuario) entram no Portal educacional e assiste cada vídeo explicativo sobre investimento</p> |
 | **Classificação** | Objeto |
 
 ## Assinatura Eletrônica
 | **Nome**  | **Assinatura Eletrônica** |
 | ------------- | ------------- |
 | **Sinônimos** | Senha Virtual, código de acesso único |
-| **Noção** | O [usuários](#Usuário) cria sua Assinatura Eletrônica e o sistema responsável salva em seu banco de dados. Sempre que tiver que efetuar uma compra ou algo do tipo dentro do sistema, será requerida a assinatura do [usuários](#Usuário). |
-| **Impacto** | <p>Os [usuários](#Usuário) se encontra em uma posição de maior segunraça com a assinatura, pois dificulta o trabalho de um possível hacker. </p> |
+| **Noção** | O [usuários](./#usuario) cria sua Assinatura Eletrônica e o sistema responsável salva em seu banco de dados. Sempre que tiver que efetuar uma compra ou algo do tipo dentro do sistema, será requerida a assinatura do [usuários](./#usuario). |
+| **Impacto** | <p>Os [usuários](./#usuario) se encontra em uma posição de maior segunraça com a assinatura, pois dificulta o trabalho de um possível hacker. </p> |
 | **Classificação** | Verbo |
 
 ## Alertas
 | **Nome**  | **Alertas** |
 | ------------- | ------------- |
 | **Sinônimos** | Notificações, Avisos, Comunicados |
-| **Noção** | Receber um alerta significa que o ou o sistema está dizendo ao [usuário](#Usuário) novidades que talvez ele possa não ter visto sobre ou o sistema está notificando o [usuário](#Usuário) sobre os processos que estão ocorrendo com seu [patrimônio](#Patrimônio). |
-| **Impacto** | <p>O [usuário](#Usuário) fica ciente do que está acontecendo </p> |
+| **Noção** | Receber um alerta significa que o ou o sistema está dizendo ao [usuário](./#usuario) novidades que talvez ele possa não ter visto sobre ou o sistema está notificando o [usuário](./#usuario) sobre os processos que estão ocorrendo com seu [patrimônio](#Patrimônio). |
+| **Impacto** | <p>O [usuário](./#usuario) fica ciente do que está acontecendo </p> |
 | **Classificação** | Estado |
 
 ## Ação
@@ -76,7 +76,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Título |
 | **Noção** | Título de renda variável que representa a menor fração do capital de uma empresa. É como se fosse um “pedacinho” dela.|
-| **Impacto** | <p>O [usuário](#Usuário) consegue comprar ações e ser sócio das empresas, nas quais, tiveram seus títulos comprados </p> |
+| **Impacto** | <p>O [usuário](./#usuario) consegue comprar ações e ser sócio das empresas, nas quais, tiveram seus títulos comprados </p> |
 | **Classificação** | Objeto |
 
 ## Banco
@@ -84,7 +84,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Título |
 | **Noção** | Instituição que presta serviços financeiros em geral, tais como: acolhimento dos depósitos de dinheiro dos clientes, concessão de empréstimos e negociação de títulos de crédito, públicos ou privados, entre outros..|
-| **Impacto** | <p>O [usuário](#Usuário) consegue ter uma conta neste banco, podendo realizar interações financeiras. </p> |
+| **Impacto** | <p>O [usuário](./#usuario) consegue ter uma conta neste banco, podendo realizar interações financeiras. </p> |
 | **Classificação** | Objeto |
 
 ## Blog
@@ -92,7 +92,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Diário online, Diário virtual |
 | **Noção** | Blogs são páginas da internet onde regularmente são publicados diversos conteúdos, como textos, imagens ou vídeos, tanto podendo ser dedicados a um assunto específico como ser de âmbito bastante geral.|
-| **Impacto** | <p>O [usuário](#Usuário) consegue participar dos blogs, visualizando os vídeos sobre conteúdo financeiro, tirando dúvidas ou interagindo de outras formas </p> |
+| **Impacto** | <p>O [usuário](./#usuario) consegue participar dos blogs, visualizando os vídeos sobre conteúdo financeiro, tirando dúvidas ou interagindo de outras formas </p> |
 | **Classificação** | Objeto |
 
 ## Canal da Rico
@@ -100,7 +100,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | intermediador, interventor |
 | **Noção** | Canal da Rico é uma forma, utilizando a plataforma "Youtube", de divulgar vídeos educaionais voltador para assuntos de educação financeira.|
-| **Impacto** | <p>Qualquer [usuário](#Usuário) ou não [usuário](#Usuário) consegue ter acesso aos vídeos educaionais de forma gratuita </p> |
+| **Impacto** | <p>Qualquer [usuário](./#usuario) ou não [usuário](./#usuario) consegue ter acesso aos vídeos educaionais de forma gratuita </p> |
 | **Classificação** | Objeto |
 
 ## Carteira de Ações
@@ -108,7 +108,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | intermediador, interventor |
 | **Noção** | Conjunto de ações de diferentes empresas, de propriedade de pessoas físicas ou jurídicas.|
-| **Impacto** | <p>O [usuário](#Usuário) possui uma "carteira" com, ao invés de dinheiro, [ações](#Ação) dentro. O que quer dizer que seu dinheiro está sendo [investido](#Investir). </p> |
+| **Impacto** | <p>O [usuário](./#usuario) possui uma "carteira" com, ao invés de dinheiro, [ações](#Ação) dentro. O que quer dizer que seu dinheiro está sendo [investido](#Investir). </p> |
 | **Classificação** | Objeto |
 
 ## Capital
@@ -124,7 +124,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Dinheiro total de empresa |
 | **Noção** | É uma modalidade de investimento pelo prazo de um dia útil, que os [bancos](#Banco) usam para aplicar os seus recursos excedentes ou para captar dinheiro de outros [bancos](#Banco) com o intuito de melhorar sua posição de liquidez. A taxa média diária do CDI é utilizada como um referencial para o custo do dinheiro (ou seja, os juros) e serve para avaliar o retorno das aplicações em fundos.|
-| **Impacto** | <p>O [usuário](#Usuário) pode chegar a investir nessa modalidade </p> |
+| **Impacto** | <p>O [usuário](./#usuario) pode chegar a investir nessa modalidade </p> |
 | **Classificação** | Objeto |
 
 ## COE (Certificado de Operações Estruturadas)
@@ -132,7 +132,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Certificado |
 | **Noção** | o COE permite que você faça investimentos mais complexos e lucrativos em ativos internacionais, ações, moedas, ETFs, índices e commodities. Tudo isso sem correr os riscos de perder parte do seu capital inicial.|
-| **Impacto** | <p>O [usuário](#Usuário) pode chegar a investir em mercados externos com este certificado </p> |
+| **Impacto** | <p>O [usuário](./#usuario) pode chegar a investir em mercados externos com este certificado </p> |
 | **Classificação** | Objeto |
 
 ## Comparador de Investimentos
@@ -140,7 +140,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | acarear, conferir |
 | **Noção** | Comparador de Investimentos é um sistema da rico onde é possível simular investimentos de [fundos de investimentos](#Fundos-de-Investimentos), [Renda Fixa](#Renda-Fixa) e [#Renda Variável](#Renda-Variável).|
-| **Impacto** | <p>O [usuário](#Usuário) consegue utilizar o comparador de investimentos para definir suas estratégias e saber o que ele ganharia mais dinheiro </p> |
+| **Impacto** | <p>O [usuário](./#usuario) consegue utilizar o comparador de investimentos para definir suas estratégias e saber o que ele ganharia mais dinheiro </p> |
 | **Classificação** | Objeto |
 
 ## Comunidade de Traders
@@ -148,7 +148,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | comunhão, coletividade |
 | **Noção** | É um canal no youtube onde diferentes [Traders](#Day-Trade) profissionais dão dicas e educação financeira voltadas para [Day Trade](#Day-Trade).|
-| **Impacto** | <p>O [usuário](#Usuário) consegue participar das aulas e adiquirir conheicmento</p> |
+| **Impacto** | <p>O [usuário](./#usuario) consegue participar das aulas e adiquirir conheicmento</p> |
 | **Classificação** | Objeto |
 
 ## Conservador
@@ -156,7 +156,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Seguro, Pé atrás |
 | **Noção** | Ser Conservador é ter medo de perder dinheiro ou querer estar em uma posição em que se sinta seguro.|
-| **Impacto** | <p>O [usuário](#Usuário) pode estar guardando seu dinheiro para algo maior e não deseja arriscar em certos tipos de investimentos que possam lhe dar prejuízos</p> |
+| **Impacto** | <p>O [usuário](./#usuario) pode estar guardando seu dinheiro para algo maior e não deseja arriscar em certos tipos de investimentos que possam lhe dar prejuízos</p> |
 | **Classificação** | Estado |
 
 ## Conta
@@ -164,7 +164,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Domínio |
 | **Noção** | Conta significa é um conjunto de dados que definem uma pessoa física ou jurídica, sendo armazenados dados para essa tal pessoa específica.|
-| **Impacto** | <p>O [usuário](#Usuário) tendo sua conta, ele consegue armazenar seu dinheiro, realizar transferências e entre outras operações</p> |
+| **Impacto** | <p>O [usuário](./#usuario) tendo sua conta, ele consegue armazenar seu dinheiro, realizar transferências e entre outras operações</p> |
 | **Classificação** | Objeto |
 
 ## Conta Corrente
@@ -172,7 +172,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Serviços financeiros |
 | **Noção** | inscrição em instituição bancária que dá direito a utilizar-lhe os serviços (p.ex., receber salário, guardar dinheiro, emitir cheques, fazer investimentos etc.).|
-| **Impacto** | <p>O [usuário](#Usuário) com uma conta corrente, ele consegue realizar diversos serviços em uma certa instituição bancária</p> |
+| **Impacto** | <p>O [usuário](./#usuario) com uma conta corrente, ele consegue realizar diversos serviços em uma certa instituição bancária</p> |
 | **Classificação** | Objeto |
 
 ## Contratos
@@ -180,7 +180,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Acordo, Obrigação |
 | **Noção** | Acordo, trato em que duas ou mais pessoas assumem certos compromissos ou obrigações, ou asseguram entre si algum direito. |
-| **Impacto** | <p>O [usuário](#Usuário) que concordou e assinou os contratos terá de seguir os compromissos assumidos</p> |
+| **Impacto** | <p>O [usuário](./#usuario) que concordou e assinou os contratos terá de seguir os compromissos assumidos</p> |
 | **Classificação** | Objeto |
 
 ## Corretora
@@ -188,7 +188,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Instituição auxiliar |
 | **Noção** | Instituição auxiliar do sistema financeiro, que opera no mercado de capitais com títulos e valores mobiliários, em especial no mercado de ações. É a intermediária entre os investidores nas transações em bolsas de valores. Administra carteiras de ações, fundos mútuos e clubes de investimento, entre outras atribuições. |
-| **Impacto** | <p>A corretora promove a comunicação entre a compra de um [investimento](#Investir), efetuado por um [usuário](#Usuário)</p> |
+| **Impacto** | <p>A corretora promove a comunicação entre a compra de um [investimento](#Investir), efetuado por um [usuário](./#usuario)</p> |
 | **Classificação** | Objeto |
 
 ## Crédito
@@ -196,7 +196,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Confiança, Acreditar |
 | **Noção** | Crédito é um termo que traduz confiança, e deriva da expressão “crer”, acreditar em algo, ou alguém. crédito, sob o aspecto financeiro, significa dispor a um tomador, recursos financeiros para fazer frente a despesas ou investimentos, financiar a compra de bens, etc.. |
-| **Impacto** | <p>O [usuário](#Usuário) empresta dinheiro para as empresas esperando que ele receba seu valor de volta com juros </p> |
+| **Impacto** | <p>O [usuário](./#usuario) empresta dinheiro para as empresas esperando que ele receba seu valor de volta com juros </p> |
 | **Classificação** | Estado |
 
 ## Custódia Remunerada
@@ -212,7 +212,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | Conta a serem pagas |
 | **Noção** | São todas as despesas que mantem o seu negócio em funciomento, esse custo sua empresa tem independemente do valor de vendas. São considerados custo operacional despesas como: Água, Luz, Internet, Funcionários, Telefone, Sistemas de Gestão Comercial, taxa de custódia e etc.. |
-| **Impacto** | Dependendo do [investimento](#Investimento) que o [usuário](#Usuário) faça, tal pode ter taxas extras a serem pagas, ou seja seu custo operacional, para manter as empresas funcionando  |
+| **Impacto** | Dependendo do [investimento](#Investimento) que o [usuário](./#usuario) faça, tal pode ter taxas extras a serem pagas, ou seja seu custo operacional, para manter as empresas funcionando  |
 | **Classificação** | Objeto |
 
 ## Day Trade
@@ -236,15 +236,15 @@
 | ------------- | ------------- |
 | **Sinônimos** | Armazenado, depositar, Guardado |
 | **Noção** | Armazenamento de algo, no caso do sistema, no depósito de dinheiro. |
-| **Impacto** | O dinheiro de cada [usuário](#Usuário), seja ele investido ou parado, estará depositado em algum banco de dados, dizendo qual o tamanho de seu [patrimônio](#Patrimônio) |
+| **Impacto** | O dinheiro de cada [usuário](./#usuario), seja ele investido ou parado, estará depositado em algum banco de dados, dizendo qual o tamanho de seu [patrimônio](#Patrimônio) |
 | **Classificação** | Verbo |
 
 ## Destaques da Semana
 | **Nome**  | **Destaques da Semana** |
 | ------------- | ------------- |
 | **Sinônimos** | Novidades |
-| **Noção** | O sistema avisa ao [usuário](#Usuário) os destaques da semana, quais são as ações com maior porcentagens de rentabilidade para serem investidas  |
-| **Impacto** | O [usuário](#Usuário) consegue estar por dentro do mercado sem muito esforço |
+| **Noção** | O sistema avisa ao [usuário](./#usuario) os destaques da semana, quais são as ações com maior porcentagens de rentabilidade para serem investidas  |
+| **Impacto** | O [usuário](./#usuario) consegue estar por dentro do mercado sem muito esforço |
 | **Classificação** | Verbo |
 
 ## Dinheiro
@@ -252,15 +252,15 @@
 | ------------- | ------------- |
 | **Sinônimos** | [patrimônio](#Patrimônio), meio de pagamento   |
 | **Noção** | tudo aquilo que pode ser convertido em dinheiro ([ações](#Ação), [títulos](#Título), cheques etc.) |
-| **Impacto** | O [usuário](#Usuário) pode utilizar seu dinheiro para investir, como por exemplo comprar [ações](#Ação) de empresas |
+| **Impacto** | O [usuário](./#usuario) pode utilizar seu dinheiro para investir, como por exemplo comprar [ações](#Ação) de empresas |
 | **Classificação** | Objeto |
 
 ## Dinheiro Aplicado
 | **Nome**  | **Dinheiro Aplicado** |
 | ------------- | ------------- |
 | **Sinônimos** | Renda Passiva   |
-| **Noção** | Todo dinheiro do [usuário](#Usuário) que está sendo utilizado por outras empresas para seu crescimento, sendo cobrado com uma taxa, em cima to total. |
-| **Impacto** | O [usuário](#Usuário) com seu dinheiro aplicado, receberá todo dia uma valor em sua conta baseado na quantidade de dinheiro que foi aplicado em certo [investimento](#Investimento) |
+| **Noção** | Todo dinheiro do [usuário](./#usuario) que está sendo utilizado por outras empresas para seu crescimento, sendo cobrado com uma taxa, em cima to total. |
+| **Impacto** | O [usuário](./#usuario) com seu dinheiro aplicado, receberá todo dia uma valor em sua conta baseado na quantidade de dinheiro que foi aplicado em certo [investimento](#Investimento) |
 | **Classificação** | Estado |
 
 ## Dúvidas
@@ -268,7 +268,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | indecisão, insegurança |
 | **Noção** | hesitação entre opiniões diversas ou várias possibilidades de ação. |
-| **Impacto** | O [usuário](#Usuário) com dúvida em certos assuntos financeiros pode acarretar em investir em alguma empresa que está falindo, por exemplo, e acabar entrando em um grande prejuízo |
+| **Impacto** | O [usuário](./#usuario) com dúvida em certos assuntos financeiros pode acarretar em investir em alguma empresa que está falindo, por exemplo, e acabar entrando em um grande prejuízo |
 | **Classificação** | Estado |
 
 ## Extrato
@@ -284,7 +284,7 @@
 | ------------- | ------------- |
 | **Sinônimos** | [Investimento](#Investir) |
 | **Noção** | Financiamento é uma operação financeira em que a parte financiadora, em geral uma instituição financeira, fornece recursos para outra parte que está sendo financiada, de modo que esta possa executar algum investimento específico previamente acordado |
-| **Impacto** | O [usuário](#Usuário) pode financiar outras empresas recebendo em troca uma rentabilidade para seu bolso |
+| **Impacto** | O [usuário](./#usuario) pode financiar outras empresas recebendo em troca uma rentabilidade para seu bolso |
 | **Classificação** | Verbo |
 
 ## Fundos de investimentos
@@ -294,7 +294,7 @@
 | **Noção** | Um fundo de investimento é formado por uma carteira de ativos financeiros. Ele é oferecido por administradoras que disponibilizam cotas para captação de recursos.
 Basicamente, ele funciona como um condomínio, onde cada morador adquire uma cota (um apartamento), paga uma mensalidade para a administração e segue algumas regras preestabelecidas.
 No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da carteira como, fazer novas aquisições ou vendas.  |
-| **Impacto** | O [usuário](#Usuário) investindo em um fundo de investimento, por necessitar de um valor maior á ser investido, terá uma grande possibilidade de ter um retorno maior |
+| **Impacto** | O [usuário](./#usuario) investindo em um fundo de investimento, por necessitar de um valor maior á ser investido, terá uma grande possibilidade de ter um retorno maior |
 | **Classificação** | Objeto |
 
 ## Gráfico
@@ -302,7 +302,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos** | Diagrama, esboço, esquema, mapa |
 | **Noção** | Gráfico é a tentativa de se expressar visualmente dados ou valores numéricos, de maneiras diferentes, assim facilitando a compreensão dos mesmos. |
-| **Impacto** | Com os Gráficos do sistema, o [usuário](#Usuário) consegue efetuar simulações, avaliar seus investimentos de forma rápida e prática |
+| **Impacto** | Com os Gráficos do sistema, o [usuário](./#usuario) consegue efetuar simulações, avaliar seus investimentos de forma rápida e prática |
 | **Classificação** | Objeto |
 
 ## Imposto de Renda
@@ -310,7 +310,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos** | imposto sobre o rendimento |
 | **Noção** | O imposto sobre a renda é um tributo da espécie imposto existente em vários países, em que cada contribuinte, seja ele pessoa física ou pessoa jurídica, é obrigado a pagar uma certa porcentagem de sua renda ao governo, nacional ou regional, a depender de cada jurisdição |
-| **Impacto** | Dependendo do [patrimônio](#Patrimônio) de um [usuário](#Usuário) e de seu investimento, ele deve pagar uma taxa que será calculada a partir da renda do [usuário](#Usuário) para o governo |
+| **Impacto** | Dependendo do [patrimônio](#Patrimônio) de um [usuário](./#usuario) e de seu investimento, ele deve pagar uma taxa que será calculada a partir da renda do [usuário](./#usuario) para o governo |
 | **Classificação** | Estado |
 
 ## Inflação
@@ -326,7 +326,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos** |  Documento sobre imposto de renda   |
 | **Noção** | O Informe de Rendimento é um documento utilizado para a fazer  Declaração do Imposto de Renda, ele prova os seus ganhos. Os bancos enviam Informes de Rendimento consolidando as operações e posições financeiras do ano base, como valores depositados na conta corrente e valores investidos em produtos financeiros e seus rendimentos. O envio ocorre no início do ano e a data limite para a preparação dos informes por parte dos bancos varia de ano para ano. |
-| **Impacto** | Documento que comprova os dados financeiros do [usuário](#Usuário) para o pagamento do imposto de renda |
+| **Impacto** | Documento que comprova os dados financeiros do [usuário](./#usuario) para o pagamento do imposto de renda |
 | **Classificação** | Objeto |
 
 ## Instituição Financeira
@@ -350,7 +350,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Prefixados|
 | **Noção** |Os investimentos pré (prefixados) são aqueles cuja [rentabilidade](#Rentabilidade) já é conhecida na data da [aplicação](#Aplicação)|
-| **Impacto** |O [usuário](#Usuário)  necessita visualizar seus investimentos prefixados|
+| **Impacto** |O [usuário](./#usuario)  necessita visualizar seus investimentos prefixados|
 | **Classificação** |Objeto|
 
 ## Investidor
@@ -358,7 +358,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Aplicador|
 | **Noção** |Quem investe em [investimentos](#Investimento)|
-| **Impacto** |<p>O [usuário](#Usuário) torna-se um investidor</p><p> O [usuário](#Usuário) analisa qual é o seu [perfil de investidor](#Perfil-De-Investidor)|
+| **Impacto** |<p>O [usuário](./#usuario) torna-se um investidor</p><p> O [usuário](./#usuario) analisa qual é o seu [perfil de investidor](#Perfil-De-Investidor)|
 | **Classificação** |Objeto|
 
 ## Investimento
@@ -366,7 +366,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  | Aplicação, empossamento |
 | **Noção** |Aplicação de recursos, tempo, esforço a fim de se obter algo.|
-| **Impacto** |<p>O [usuário](#Usuário) procura sempre o melhor [investimento](#Investimento) </p><p> O [usuário](#Usuário) pode perder dinheiro ou não com seus [investimentos](#Investimento)|
+| **Impacto** |<p>O [usuário](./#usuario) procura sempre o melhor [investimento](#Investimento) </p><p> O [usuário](./#usuario) pode perder dinheiro ou não com seus [investimentos](#Investimento)|
 | **Classificação** |Objeto|
 
 ## Investir
@@ -374,23 +374,23 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  | Acometer, Agredir |
 | **Noção** |O ato de investir em [ações](#Ações)|
-| **Impacto** |<p>O [usuário](#Usuário) investe em [ações](#Ações)</p><p> O [usuário](#Usuário) retira [ações](#Ações)</p><p> O [usuário](#Usuário) estuda [ações](#Ações)</p>|
+| **Impacto** |<p>O [usuário](./#usuario) investe em [ações](#Ações)</p><p> O [usuário](./#usuario) retira [ações](#Ações)</p><p> O [usuário](./#usuario) estuda [ações](#Ações)</p>|
 | **Classificação** |Ação|
 
 ## Juros
 | **Nome**  | **Juros** |
 | ------------- | ------------- |
 | **Sinônimos**  | [Taxa](#Taxa), Taxas, prêmio, tributos, impostos |
-| **Noção** |Rendimento que se obtém quando se empresta [dinheiro](#Dinheiro) por um determinado período|
-| **Impacto** |<p>O [usuário](#Usuário) pagou juros</p><p> A [taxa](#Taxa) de juros cresceu</p>
+| **Noção** |Rendimento que se obtém quando se empresta [dinheiro](./#dinheiro) por um determinado período|
+| **Impacto** |<p>O [usuário](./#usuario) pagou juros</p><p> A [taxa](#Taxa) de juros cresceu</p>
 | **Classificação** |Objeto|
 
 ## Lançamentos Futuros
 | **Nome**  | **Lançamentos Futuros** |
 | ------------- | ------------- |
 | **Sinônimos**  |Despesas futuras, receitas futuras|
-| **Noção** |Despesas ou receitas que serão debitadas ou creditadas em uma [conta corrente](#Conta-Corrente) em algum momento futuro, mas que já são mostradas no [extrato](#Extrato), com indicação da data em que haverá o [débito](#Débito) ou o [crédito](#Crédito), porque estão programadas.|
-| **Impacto** |<p> O [usuário](#Usuário) deve está ciente de seus lançamentos futuros</p>
+| **Noção** |Despesas ou receitas que serão debitadas ou creditadas em uma [conta corrente](./#conta-Corrente) em algum momento futuro, mas que já são mostradas no [extrato](#Extrato), com indicação da data em que haverá o [débito](#Débito) ou o [crédito](#Crédito), porque estão programadas.|
+| **Impacto** |<p> O [usuário](./#usuario) deve está ciente de seus lançamentos futuros</p>
 | **Classificação** |Estado|
 
 ## Link direto para o chat para atendimento
@@ -398,7 +398,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Redicionamento para o chat para atendimento|
 | **Noção** |Quando selecionada vai para o chat de atendimento|
-| **Impacto** |O [usuário](#Usuário) quer ser atendido mais efetivamente possível|
+| **Impacto** |O [usuário](./#usuario) quer ser atendido mais efetivamente possível|
 | **Classificação** |Objeto|
 
 ## Liquidez Diária
@@ -406,7 +406,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Liquidez Diária|
 | **Noção** |Um [investimento](#Investimento) com liquidez diária é aquele que pode ser vendido ou resgatado em qualquer dia, conforme a vontade do [investidor](#Investidor).|
-| **Impacto** |O [usuário](#Usuário) tem a opção de escolher um rendimento com liquidez diária|
+| **Impacto** |O [usuário](./#usuario) tem a opção de escolher um rendimento com liquidez diária|
 | **Classificação** |Estado|
 
 ## Lucro
@@ -414,7 +414,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Ganho, benefício, vantagem|
 | **Noção** |Qualquer vantagem, benefício que se pode tirar de um ou mais [investimentos](#Investimento)|
-| **Impacto** |<p>O [usuário](#Usuário) pode ter ou não lucros com [investimentos](#Investimento)</p><p> O lucro pode ser investido novamente</p>
+| **Impacto** |<p>O [usuário](./#usuario) pode ter ou não lucros com [investimentos](#Investimento)</p><p> O lucro pode ser investido novamente</p>
 | **Classificação** |Objeto|
 
 ## Notas de Corretagem
@@ -422,15 +422,15 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Notas de Corretagem|
 | **Noção** |A nota de corretagem representa o [extrato](#Extrato) diário de suas operações no [mercado de ações](#Mercado-De-Ações). Traz também o preço de aquisição das [ações](#Ações).|
-| **Impacto** |O sistema emite notas de corretagem ao [usuário](#Usuário) após uma compra na bolsa de valores |
+| **Impacto** |O sistema emite notas de corretagem ao [usuário](./#usuario) após uma compra na bolsa de valores |
 | **Classificação** |Estado|
 
 ## Nome do Usuário
 | **Nome**  | **Operações normais** |
 | ------------- | ------------- |
 | **Sinônimos**  |Nickname, Nick, @.|
-| **Noção** |Nome único que o [usuário](#Usuário) pode escolher para poder compartilhar seu perfil.|
-| **Impacto** |O [usuário](#Usuário) passa a poder usufruir das funcionalidades da aplicação|
+| **Noção** |Nome único que o [usuário](./#usuario) pode escolher para poder compartilhar seu perfil.|
+| **Impacto** |O [usuário](./#usuario) passa a poder usufruir das funcionalidades da aplicação|
 | **Classificação** |Objeto|
 
 ## Mercado de Ações
@@ -445,8 +445,8 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | **Nome**  | **Ouvidoria** |
 | ------------- | ------------- |
 | **Sinônimos**  |Atendimento, Central de Ajuda|
-| **Noção** |Lugar onde o [usuário](#Usuário) sana suas [dúvidas](#Dúvidas)|
-| **Impacto** |<p>O [usuário](#Usuário) utiliza a ouvidoria</p><p>A ouvidoria deve ajudar o [usuário](#Usuário)</p>|
+| **Noção** |Lugar onde o [usuário](./#usuario) sana suas [dúvidas](#Dúvidas)|
+| **Impacto** |<p>O [usuário](./#usuario) utiliza a ouvidoria</p><p>A ouvidoria deve ajudar o [usuário](./#usuario)</p>|
 | **Classificação** |Objeto|
 
 ## Patrimônio
@@ -454,7 +454,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Bens, [ações](#Ações), acervo, fortuna|
 | **Noção** |São os bens, direitos e obrigações de valor econômico pertencentes a uma pessoa ou empresa|
-| **Impacto** |<p>O [usuário](#Usuário) possui uma quantia alta em patrimônios</p><p>O Usuário deseja [investir](#Investir) para aumentar os seus patrimônios</p>|
+| **Impacto** |<p>O [usuário](./#usuario) possui uma quantia alta em patrimônios</p><p>O Usuário deseja [investir](#Investir) para aumentar os seus patrimônios</p>|
 | **Classificação** |Objeto|
 
 
@@ -463,15 +463,15 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Características do [Investidor](#Investidor)|
 | **Noção** |O perfil de [Investidor](#Investidor) é o resultado de uma análise das suas características em relação a [investimentos](#investimentos), e principalmente ao [risco](#Risco) envolvido|
-| **Impacto** |O [usuário](#Usuário) deve conhecer o seu perfil de [investidor](#Investidor)|
+| **Impacto** |O [usuário](./#usuario) deve conhecer o seu perfil de [investidor](#Investidor)|
 | **Classificação** |Objeto|
 
 ## Planos de Corretagem
 | **Nome**  | **Planos de Corretagem** |
 | ------------- | ------------- |
 | **Sinônimos**  ||
-| **Noção** |Planos que [corretoras](#Corretoras) cobram para que [usuários](#Usuários) utilizem dos seus serviços. |
-| **Impacto** |Corretoras ganham [dinheiro](#Dinheiro) através dos planos de corretagem|
+| **Noção** |Planos que [corretoras](#Corretoras) cobram para que [usuários](./#usuarios) utilizem dos seus serviços. |
+| **Impacto** |Corretoras ganham [dinheiro](./#dinheiro) através dos planos de corretagem|
 | **Classificação** |Objeto|
 
 ## Plataformas de Negociação
@@ -479,7 +479,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Ambientes de Negociação|
 | **Noção** |Uma plataforma de negociação é um software que permite você comprar e vender ativos na bolsa valores|
-| **Impacto** |O [usuário](#Usuário) tem acesso a uma plataforma de nogociação|
+| **Impacto** |O [usuário](./#usuario) tem acesso a uma plataforma de nogociação|
 | **Classificação** |Objeto|
 
 ## Porcentagem
@@ -487,7 +487,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Percentual, proporção, alíquota|
 | **Noção** |proporção de uma quantidade ou grandeza em relação a uma outra avaliada sobre a centena [símb.: %]|
-| **Impacto** |O [usuário](#Usuário) comprou ações com uma elevada porcentagem de [juros](#Juros)|
+| **Impacto** |O [usuário](./#usuario) comprou ações com uma elevada porcentagem de [juros](#Juros)|
 | **Classificação** |Objeto|
 
 ## Previdência Privada
@@ -503,7 +503,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |RLP, Retail Liquidity Provider|
 | **Noção** |Sistema que surgiu para facilitar a vida de quem opera em mercados mais [agressivos](#Agressivo) de minicontratos de índice e dólar|
-| **Impacto** |O [usuário](#Usuário)utiliza diariamente o RLP |
+| **Impacto** |O [usuário](./#usuario)utiliza diariamente o RLP |
 | **Classificação** |Objeto|
 
 ## Relatórios Extras
@@ -550,7 +550,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | **Nome**  | **Rentabilidade** |
 | ------------- | ------------- |
 | **Sinônimos**  |Produto, dividendos, ganho, [juro](#Juros), [lucro](#Lucro)|
-| **Noção** |[Lucro](#Lucro) de [dinheiro](#Dinheiro) investido|
+| **Noção** |[Lucro](#Lucro) de [dinheiro](./#dinheiro) investido|
 | **Impacto** |O [investidor](#Investidor) se preocupa com sua rentabilidade|
 | **Classificação** |Objeto|
 
@@ -558,8 +558,8 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | **Nome**  | **Resumo de todos os investimentos** |
 | ------------- | ------------- |
 | **Sinônimos**  |Visualização de [investimentos](#Investimentos)|
-| **Noção** |Permite o [usuário](#Usuário) visualizar todos os seus [investimentos](#Investimentos) feitos|
-| **Impacto** |O [usuário](#Usuário)  necessita visualizar seus [investimentos](#Investimentos)|
+| **Noção** |Permite o [usuário](./#usuario) visualizar todos os seus [investimentos](#Investimentos) feitos|
+| **Impacto** |O [usuário](./#usuario)  necessita visualizar seus [investimentos](#Investimentos)|
 | **Classificação** |Objeto|
 
 ## Retirar Ação
@@ -631,7 +631,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Taxa de Corretagem|
 | **Noção** |A taxa de corretagem é um valor cobrado pelas [corretoras](#Corretora) de valores para cada operação de compra e venda de [ações](#Ações) e outros ativos no [mercado de ações](#Mercado-De-Ações)|
-| **Impacto** |A RICO ganha [dinheiro](#Dinheiro) através de taxas de corretagem|
+| **Impacto** |A RICO ganha [dinheiro](./#dinheiro) através de taxas de corretagem|
 | **Classificação** |Objeto|
 
 ## Taxa de Intermedição
@@ -654,15 +654,15 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | **Nome**  | **Termos** |
 | ------------- | ------------- |
 | **Sinônimos**  |Termos, Documentos|
-| **Noção** |Termos e [Contratos](#Contratos) assinados pelo o [usuário](#Usuário)|
-| **Impacto** |O [usuário](#Usuário) pode visualizar seu histórico de termos|
+| **Noção** |Termos e [Contratos](#Contratos) assinados pelo o [usuário](./#usuario)|
+| **Impacto** |O [usuário](./#usuario) pode visualizar seu histórico de termos|
 | **Classificação** |Objeto|
 
 ## Tesouro Direto
 | **Nome**  | **Tesouro Direto** |
 | ------------- | ------------- |
 | **Sinônimos**  |Tesouro Direto|
-| **Noção** |O Tesouro Direto é um [título](#Título) emitido pelo Governo Federal. Ele funciona como um [empréstimo](#Empréstimo). Dessa forma, você [investe](#Investir) o seu [dinheiro](#Dinheiro) e o recebe acrescido de [juros](#Juros) na data de [vencimento](#vencimento) que foi definida no momento da compra|
+| **Noção** |O Tesouro Direto é um [título](#Título) emitido pelo Governo Federal. Ele funciona como um [empréstimo](#Empréstimo). Dessa forma, você [investe](#Investir) o seu [dinheiro](./#dinheiro) e o recebe acrescido de [juros](#Juros) na data de [vencimento](#vencimento) que foi definida no momento da compra|
 | **Impacto** |O tesouro direto se encaixa em investimentos de [renda fixa](#Renda-Fixa)|
 | **Classificação** |Objeto|
 
@@ -694,8 +694,8 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | **Nome**  | **Tour virtual** |
 | ------------- | ------------- |
 | **Sinônimos**  |Tutorial|
-| **Noção** |Tutorial feito pela RICO para ajudar [usuários](#Usuário) a mexerem no sistema|
-| **Impacto** |<p>O [usuários](#Usuário) percorre as etapas do Tour Virtual</p><p>O [usuário](#Usuário) pula as etapas do Tour Virtual</p>|
+| **Noção** |Tutorial feito pela RICO para ajudar [usuários](./#usuario) a mexerem no sistema|
+| **Impacto** |<p>O [usuários](./#usuario) percorre as etapas do Tour Virtual</p><p>O [usuário](./#usuario) pula as etapas do Tour Virtual</p>|
 | **Classificação** |Objeto|
 
 ## Transferir
@@ -703,7 +703,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Transportar, deslocar, modificar, mudar, remover, substituir, transladar, trasladar, trocar|
 | **Noção** |Mudar de um lugar para outro|
-| **Impacto** |O [usuário](#Usuário) transferiu [dinheiro](#Dinheiro) para a [conta](#Conta) Rico.|
+| **Impacto** |O [usuário](./#usuario) transferiu [dinheiro](./#dinheiro) para a [conta](./#conta) Rico.|
 | **Classificação** |Ação|
 
 ## Tributação
@@ -719,7 +719,7 @@ No fundo, há taxas para que a gestão tome decisões relacionadas aos ativos da
 | ------------- | ------------- |
 | **Sinônimos**  |Utilizador, utente, cliente, usador, usufruidor|
 | **Noção** |Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades|
-| **Impacto** |O [usuário](#Usuário) possui uma [conta](#Conta) na RICO|
+| **Impacto** |O [usuário](./#usuario) possui uma [conta](./#conta) na RICO|
 | **Classificação** |Objeto|
 
 ## Vencimento
@@ -738,6 +738,7 @@ Data | Responsável | Versão | Alteração
 24/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.1 | Adicionado léxicos de 46 á 80
 25/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2 | Adicionado léxicos de 81 á 93
 27/09/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.3 | Adicionado léxicos 7 á 45
+30/09/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.4 | Adicionado link apenas no léxico 1
 
 ## Referências
 * <p align="justify">RICO.COM.VC (Brasil). Aprenda com o apoio do melhor conteúdo. Brasil, 2011. Disponível em: https://www.rico.com.vc/aprenda. Acesso em: 25 set. 2019.</p>
