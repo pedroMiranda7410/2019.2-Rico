@@ -274,10 +274,10 @@
 ## Extrato
 | **Nome**  | **Extrato** |
 | ------------- | ------------- |
-| **Sinônimos** |    |
-| **Noção** |  |
-| **Impacto** |  |
-| **Classificação** |  |
+| **Sinônimos** |  Resumo, extracto, síntese, sumário, súmula, apanhado, sinopse  |
+| **Noção** | Extrato é um relatório contendo informações sobre a movimentação e o saldo de uma conta bancária |
+| **Impacto** | O usuário pode visualizar o seu extrato para obter informações sobre sua conta bancária|
+| **Classificação** | objeto |
 
 ## Financiamento
 | **Nome**  | **Financiamento** |
