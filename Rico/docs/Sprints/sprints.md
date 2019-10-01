@@ -1,7 +1,8 @@
 
 ### **Sprint 0**
 
-Nessa Sprint foi feito a escolha da aplicação, o planejamento do projeto, a inicialização do repositório (wiki) e o RichPicture, que inicialmente foi feito pelo Pedro Miranda na atividade individual da disciplina. Já a versão 2.0 do RichPicture foi trabalhado por toda a equipe junto com a Apresentação em slides, e ambos tiveram a identidade visual trabalhada pelo Daniel Sousa. O Planejamento foi trabalhado pelo Luis Bruno e Lucas Leite, junto com a abertura deste documento e a Wiki foi feita pelo Tiago Miguel e Lucas Medeiros.
+<p align="justify">&emsp;
+Nessa Sprint foi feito a escolha da aplicação, o planejamento do projeto, a inicialização do repositório (wiki) e o RichPicture, que inicialmente foi feito pelo Pedro Miranda na atividade individual da disciplina. Já a versão 2.0 do RichPicture foi trabalhado por toda a equipe junto com a Apresentação em slides, e ambos tiveram a identidade visual trabalhada pelo Daniel Sousa. O Planejamento foi trabalhado pelo Luis Bruno e Lucas Leite, junto com a abertura deste documento e a Wiki foi feita pelo Tiago Miguel e Lucas Medeiros.</p>
 
 | Atividade              | Integrantes                   |
 | ---------------------- | ----------------------------- |
@@ -12,7 +13,8 @@ Nessa Sprint foi feito a escolha da aplicação, o planejamento do projeto, a in
 | Planejamento           | Lucas Leite e Luis Bruno      |
 
 ### **Sprint 1**
-O grupo focou na elicitação e priorização de requisitos, aplicando técnicas para levantar requisitos surpresas, esperados e óbvios. A wiki foi atualizada assim como o seu design.
+<p align="justify">&emsp;
+O grupo focou na elicitação e priorização de requisitos, aplicando técnicas para levantar requisitos surpresas, esperados e óbvios. A wiki foi atualizada assim como o seu design.</p>
 
 | Atividade              | Integrantes                   |
 | ---------------------- | ----------------------------- |
@@ -23,7 +25,8 @@ O grupo focou na elicitação e priorização de requisitos, aplicando técnicas
 | Wiki (GitHub Pages)    | Lucas Medeiros e Tiago Miguel |
 
 ### **Sprint 2**
-Alterações no planejamento foram realizadas nessa etapa do projeto. Agora a equipe optou por utilizar o Trello como kanban ao invés do ZenHub e as sprints tem duração de uma semana ao invés de duas. Além disso, melhorias nas técnicas já aplicadas foram feitas (alteração no RichPicture), mais uma técnica foi feita para Priorização de Requisitos (First Things First) e atualizado na wiki do projeto.
+<p align="justify">&emsp;
+Alterações no planejamento foram realizadas nessa etapa do projeto. Agora a equipe optou por utilizar o Trello como kanban ao invés do ZenHub e as sprints tem duração de uma semana ao invés de duas. Além disso, melhorias nas técnicas já aplicadas foram feitas (alteração no RichPicture), mais uma técnica foi feita para Priorização de Requisitos (First Things First) e atualizado na wiki do projeto.</p>
 
 | Atividade                                         | Integrantes                                            |
 | ------------------------------------------------- | ------------------------------------------------------ |
@@ -38,7 +41,8 @@ Alterações no planejamento foram realizadas nessa etapa do projeto. Agora a eq
 | Ajustes no planejamento e abertura do Trello      | Luis Bruno                                             |
 
 ### **Sprint 3**
-Na Sprint 3 foi trabalhado toda a modelagem do sistema por todos os membros da equipe. Configurações no deploy foram realizadas com o objetivo de ter mais facilidade de atualização da wiki.
+<p align="justify">&emsp;
+Na Sprint 3 foi trabalhado toda a modelagem do sistema por todos os membros da equipe. Configurações no deploy foram realizadas com o objetivo de ter mais facilidade de atualização da wiki.</p>
 
 | Atividade                             | Integrantes                   |
 | ------------------------------------- | ----------------------------- |

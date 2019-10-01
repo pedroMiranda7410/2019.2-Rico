@@ -24,10 +24,20 @@ No segundo ponto de controle foi demonstrado o levantamento dos requisitos utili
 
 <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnYxln9Jy--Ja1FC_Hub59kENN1RrNOsPxv73yXjtw5VPpEgrivUKT4bJUQRaclAnkvzCBzuOyJTmx/embed?start=false&loop=false&delayms=1000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
+#### **Ponto de controle 3**
+<p align="justify">&emsp;
+No terceiro ponto de controle foi apresentado as técnicas de modelagem aplicadas: Casos de uso, Léxicos, Cenários e Especificação Suplementar. Além disso foi apresentado toda a Wiki junto à essa apresentação, mostrando as melhorias trabalhadas nas técnicas dos pontos de controle anteriores assim como as melhorias trabalhadas na própia Wiki.
+</p>
+
+<p align="center">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4QtlKDiIGSws1oXAMAwA7L9O-fBeq_EOgdNEqtnt4wYiEObBCVKz6tY_rgIPA-6zz2pHMSQa-zWVF/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
 ### Histórico de revisões
 
-Data | Responsável | Versão | Alteração 
----- | ----------- | ------ | ---------
-15/09/2019 | [@tmcstiago](https://github.com/tmcstiago) | 1 | Adiciona as informações da página principal e informações do ponto de controle 1 e 2
-24/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1 | Complementando tópico de Metodologia e correções
-26/09/2019 | [@dansousamelo](http://github.com/dansousamelo) | 1.2 | Corrigindo formatação
+| Data       | Responsável                                        | Versão | Alteração                                                                            |
+| ---------- | -------------------------------------------------- | ------ | ------------------------------------------------------------------------------------ |
+| 15/09/2019 | [@tmcstiago](https://github.com/tmcstiago)         | 1      | Adiciona as informações da página principal e informações do ponto de controle 1 e 2 |
+| 24/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1    | Complementando tópico de Metodologia e correções                                     |
+| 26/09/2019 | [@dansousamelo](http://github.com/dansousamelo)    | 1.2    | Corrigindo formatação                                                                |
+| 01/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.3    | Adicionando informações do Ponto de controle 3                                       |
