@@ -239,4 +239,4 @@
 
 Data | Responsável | Versão | Alteração 
 ---- | ----------- | ------ | ---------
-20/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.0 | Adicionado itens da tabela de backlogs com histórias de usuários retirados da tabela excel  
+16/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.0 | Adicionado itens da tabela de backlogs com histórias de usuários retirados da tabela excel  
