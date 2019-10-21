@@ -1,3 +1,23 @@
+
+## **Product Backlog**
+
+<p align="justify">O Product Backlog é uma lista contendo todas as funcionalidades desejadas para um produto. O Product Backlog não precisa estar completo no início de um projeto. O conteúdo desta lista é definido pelo Product Owner. Pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários.</p>
+
+## **Histórias de usuário**
+
+<p align="justify">Uma história de usuário é uma ferramenta usada no desenvolvimento de software Ágil para capturar uma descrição de um recurso de software da perspectiva do usuário final. A história do usuário descreve o tipo de usuário, o que eles querem e por quê. Uma história de usuário ajuda a criar uma descrição simplificada de um requisito e pode caber em estruturas Ágil como Scrum e Kanban.</p>
+
+## **Participantes**
+
+Nome | Github |
+----------- | ------ |
+Pedro Henrique Queiroz Miranda | [@pedroMiranda7410](https://github.com/pedroMiranda7410)
+Daniel de Sousa Oliveira Melo Veras | [@dansousamelo](https://github.com/dansousamelo)
+Tiago Miguel Caetano da Silva  | [@tmcstiago](https://github.com/tmcstiago)
+Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
+
+## **Tabela com Backlog**
+
 <table>
     <thead>
         <tr>
@@ -11,225 +31,225 @@
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6">Acesso a aplicação</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Cadastro</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US01</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US01/" >US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um novo usuário do sistema desejo realizar o cadastro de uma nova conta</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Login</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US02</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US02/" >US02</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo realizar o login</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US03</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US03/" >US03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo habilitar login por digital</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US04</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US04/" >US04</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo recuperar o nome de caso tenha esquecido</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US05</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US05/" >US05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo recuperar a senha caso tenha esquecido</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US06</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US06/" >US06</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo sair da minha conta</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="10">Área do usuário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Informação do Usuário</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US07</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US07/" >US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar as informações da conta</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US08</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US08/" >US08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os relatórios extras</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US09</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US09/" >US09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar histórico de termos de contas</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Alterar dados de usuário</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US010</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US10/" >US010</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo definir ou alterar o meu perfil de investidos</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US11</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US11/" >US11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo alterar senha de acesso</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US12</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US12/" >US12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo alterar assinatura eletrônica</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Área Financeira</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US013</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US13" >US013</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar informações para declarar Imposto de Renda</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US14</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US14/" >US14</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo retirar o meu informe de Rendimentos</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US15</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US15/" >US15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo retirar dinheiro da minha conta rico</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US16</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US16/" >US16</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar notas de corretagem</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Apoio ao usuário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Atendimento ao usuário</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US17</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US17/" >US17</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo falar com o atendimento da Rico</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US18</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US18/" >US18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo tirar dúvidas do sistema</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="34">Gerenciamento de Investimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="12">Informações Financeiras</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US19</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US19/" >US19</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar o patrimônio na rico</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US20</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US20/" >US20</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os valores da tela inicial</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US21</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US21/" >US21</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar a distribuição de investimentos</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US22</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US22/" >US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar as ultimas ordens realizadas no tesouro direto</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US23</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US23/" >US23</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar informações da ordem realizada no tesouro direto</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US24</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US24/" >US24</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar as ultimas ordens realizadas em renda fixa</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US25</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US25/" >US25</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar as informações de ordem realizada no tesouro direto</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US26</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US26/" >US26</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar as ultimas ordens realizadas para fundo de investimento</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US27</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US27/" >US27</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar informações da ordem realizada para fundo de investimentos</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US28</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US28/" >US28</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os ativos de renda variável</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US29</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US29/" >US29</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os titulos de renda variavel </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US30</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US30/" >US30</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar o extrato de movimentação</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Visualização de investimentos em grupos</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US31</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US31/" >US31</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar as modalidades de investimentos disponíveis</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US32</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US32/" >US32</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os investimentos para Tesouro Direto</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US33</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US33/" >US33</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os títulos de Renda Fixa</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US34</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US34/" >US34</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os fundos de investimento disponíveis</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US35</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US35/" >US35</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os ativos de renda variável</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Visualização de detalhes de títulos</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US36</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US36/" >US36</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar os detalhes de um Tesouro Direto</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US37</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US37/" >US37</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar detalhes de um título de Renda Fixa</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US38</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US38/" >US38</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar detalhes de um fundo de investimento</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US39</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US39/" >US39</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar detalhes de ativos de renda variável</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Filtrar investimentos</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US40</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US40/" >US40</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo procurar um título de Renda Fixa</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US41</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US41/" >US41</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo filtrar títulos de Renda Fixa</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US42</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US42/" >US42</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo procurar fundos de investimentos</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US43</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US43/" >US43</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo filtrar fundo de investimentos disponiveis</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Personalização para investimento</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US44</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US44/" >US44</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo gerenciar ativos de renda variável</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US45</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US45/" >US45</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo adicionar ativos de renda variável</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US46</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US46/" >US46</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo remover ativos de lista de renda variável </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US47</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US47/" >US47</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo ativar/desativar operação de alavancada</td>
         </tr> 
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Compra / venda de ativos</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US48</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US48/" >US48</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo realizar aplicação em um título do Tesouro Dieto</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US49</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US49/" >US49</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo realizar aplicação em um título de Renda Fixa</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US50</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US50/" >US50</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo realizar aplicação em um fundo de investimentos </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US51</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US51/" >US51</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo comprar ativos de renda variável</td>
         </tr>  
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US52</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/Modelagem/Ágil/Histórias de Usuário/US52/" >US52</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo vender ativos de renda variável</td>
         </tr>          
     </tbody>
@@ -239,4 +259,10 @@
 
 Data | Responsável | Versão | Alteração 
 ---- | ----------- | ------ | ---------
-16/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.0 | Adicionado itens da tabela de backlogs com histórias de usuários retirados da tabela excel  
+16/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.0 | Adicionado itens da tabela de backlogs com histórias de usuários retirados da tabela excel
+17/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.1 | Adicionado as US01 á US26
+17/10/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.0 | Adicionado as US27 á US52    
+
+## **Referências**
+
+ * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10; Disponível em [https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf](https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf).
