@@ -15,25 +15,25 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um novo usuário do sistema desejo realizar o cadastro de uma nova conta</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;" rowspan="5">Login</td>
-            <td style="vertical-align: middle;text-align:center;">US02</td>
-            <td style="vertical-align: middle;text-align:center;">Eu como um usuário do sistema desejo realizar o login</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Login</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US02</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo realizar o login</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;">US03</td>
-            <td style="vertical-align: middle;text-align:center;">Eu como um usuário do sistema desejo habilitar login por digital</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US03</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo habilitar login por digital</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;">US04</td>
-            <td style="vertical-align: middle;text-align:center;">Eu como um usuário do sistema desejo recuperar o nome de caso tenha esquecido</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US04</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo recuperar o nome de caso tenha esquecido</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;">US05</td>
-            <td style="vertical-align: middle;text-align:center;">Eu como um usuário do sistema desejo recuperar a senha caso tenha esquecido</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US05</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo recuperar a senha caso tenha esquecido</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;">US06</td>
-            <td style="vertical-align: middle;text-align:center;">Eu como um usuário do sistema desejo sair da minha conta</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US06</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo sair da minha conta</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;" rowspan="10">Área do usuário</td>
