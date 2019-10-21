@@ -67,6 +67,10 @@ div span:first-child {
 }
 
 
+table tbody tr td {
+    border: 0.5px solid rgba(0,0,0,0.2);
+}
+
 article {
     height: 100%;
 }

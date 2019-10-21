@@ -531,6 +531,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../Modelo/" title="Modelo" class="md-nav__link">
+      Modelo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
     <a href="../US01/" title="US01" class="md-nav__link">
       US01
     </a>
@@ -1261,7 +1273,7 @@
                 <table>
     <thead>
         <tr>
-            <th colspan="2" rowspan="2"> US23 - { História de usuário }</th>
+            <th colspan="2" rowspan="2"> US23 - Eu como um usuário do sistema desejo visualizar informações da ordem realizada no tesouro direto</th>
         </tr>        
     </thead>
 </table>
@@ -1276,32 +1288,34 @@
     </thead>
     <tbody>
         <tr>
-            <td>{ REGRA 1}</td>
+            <td>O usuário necessita ter patrimônio o suficiente para realizar uma ordem no tesouro direto</td>
             <td>
                 <ul>
-                    <li>{Exemplo OK} - <span style="color:green">OK</span></li>
-                    <li>{Exemplo ERRO} - <span style="color:red">ERRO</span></li>
+                    <li>Usuário possui R$ 150 em sua conta e realiza a compra de 1 ação no SELIC que está custando R$ 103,63 - <span style="color:green">OK</span></li>
+                    <li>O SELIC está custando R$ 103,63 e o usuário possui R$ 90 - <span style="color:red">ERRO</span></li>
                 </ul>
             </td>
-            <td>
-                <ul>
-                    <li>{ QUESTIONAMENTO }</li>
-                </ul>
-            </td>
+            <td> - </td>
         </tr>
         <tr>
-            <td>{ REGRA 2}</td>
+            <td>O usuário necessita realizar no mínimo um investimento dentro do tesouro direto</td>
             <td>
                 <ul>
-                    <li>{Exemplo OK} - <span style="color:green">OK</span></li>
-                    <li>{Exemplo ERRO} - <span style="color:red">ERRO</span></li>
+                    <li>Usuário investiu em 2 ações no tesouro SELIC - <span style="color:green">OK</span></li>
+                    <li>Usuário não possue ação investida dentro do tesouro direto - <span style="color:red">ERRO</span></li>
                 </ul>
             </td>
+            <td> - </td>
+        </tr>
+        <tr>
+            <td>Usuário deve estar logado em sua conta</td>
             <td>
                 <ul>
-                    <li>{ QUESTIONAMENTO }</li>
+                    <li>Usuário logou em sua conta e foi á sua carteira olhar as informações sobre seus investimentos do tesouro direto - <span style="color:green">OK</span></li>
+                    <li>O usuário não está logado em sua conta e quer tentar acessar sua carteira - <span style="color:red">ERRO</span></li>
                 </ul>
             </td>
+            <td> - </td>
         </tr>
     </tbody>
 </table>
