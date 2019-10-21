@@ -49,4 +49,9 @@
         }
     }
 
+    var td = document.querySelectorAll("td");
+    for(var index in td) {
+        td[index].style.border = "0.5px solid rgba(0,0,0,0.2)";
+    }
+
 })();
