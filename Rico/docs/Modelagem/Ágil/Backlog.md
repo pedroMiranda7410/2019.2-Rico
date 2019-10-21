@@ -261,7 +261,9 @@ Data | Responsável | Versão | Alteração
 ---- | ----------- | ------ | ---------
 16/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.0 | Adicionado itens da tabela de backlogs com histórias de usuários retirados da tabela excel
 17/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.1 | Adicionado as US01 á US26
-17/10/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.0 | Adicionado as US27 á US52    
+17/10/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2 | Adicionado as US27 á US52 
+17/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.3 | Adicionado referências e descrição 
+
 
 ## **Referências**
 
