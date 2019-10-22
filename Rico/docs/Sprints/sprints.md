@@ -1,8 +1,9 @@
 
 ### **Sprint 0**
-
+20/08 ~ 03/09
 <p align="justify">&emsp;
-Nessa Sprint foi feito a escolha da aplicação, o planejamento do projeto, a inicialização do repositório (wiki) e o RichPicture, que inicialmente foi feito pelo Pedro Miranda na atividade individual da disciplina. Já a versão 2.0 do RichPicture foi trabalhado por toda a equipe junto com a Apresentação em slides, e ambos tiveram a identidade visual trabalhada pelo Daniel Sousa. O Planejamento foi trabalhado pelo Luis Bruno e Lucas Leite, junto com a abertura deste documento e a Wiki foi feita pelo Tiago Miguel e Lucas Medeiros.</p>
+    Nessa Sprint foi feito a escolha da aplicação, o planejamento do projeto, a inicialização do repositório (wiki) e o RichPicture, que inicialmente foi feito pelo Pedro Miranda na atividade individual da disciplina. Já a versão 2.0 do RichPicture foi trabalhado por toda a equipe junto com a Apresentação em slides, e ambos tiveram a identidade visual trabalhada pelo Daniel Sousa. O Planejamento foi trabalhado pelo Luis Bruno e Lucas Leite, junto com a abertura deste documento e a Wiki foi feita pelo Tiago Miguel e Lucas Medeiros.
+</p>
 
 | Atividade              | Integrantes                   |
 | ---------------------- | ----------------------------- |
@@ -13,8 +14,10 @@ Nessa Sprint foi feito a escolha da aplicação, o planejamento do projeto, a in
 | Planejamento           | Lucas Leite e Luis Bruno      |
 
 ### **Sprint 1**
+03/09 ~ 10/09
 <p align="justify">&emsp;
-O grupo focou na elicitação e priorização de requisitos, aplicando técnicas para levantar requisitos surpresas, esperados e óbvios. A wiki foi atualizada assim como o seu design.</p>
+    O grupo focou na elicitação e priorização de requisitos, aplicando técnicas para levantar requisitos surpresas, esperados e óbvios. A wiki foi atualizada assim como o seu design.
+</p>
 
 | Atividade              | Integrantes                   |
 | ---------------------- | ----------------------------- |
@@ -25,8 +28,10 @@ O grupo focou na elicitação e priorização de requisitos, aplicando técnicas
 | Wiki (GitHub Pages)    | Lucas Medeiros e Tiago Miguel |
 
 ### **Sprint 2**
+10/09 ~ 19/09
 <p align="justify">&emsp;
-Alterações no planejamento foram realizadas nessa etapa do projeto. Agora a equipe optou por utilizar o Trello como kanban ao invés do ZenHub e as sprints tem duração de uma semana ao invés de duas. Além disso, melhorias nas técnicas já aplicadas foram feitas (alteração no RichPicture), mais uma técnica foi feita para Priorização de Requisitos (First Things First) e atualizado na wiki do projeto.</p>
+    Alterações no planejamento foram realizadas nessa etapa do projeto. Agora a equipe optou por utilizar o Trello como kanban ao invés do ZenHub e as sprints tem duração de uma semana ao invés de duas. Além disso, melhorias nas técnicas já aplicadas foram feitas (alteração no RichPicture), mais uma técnica foi feita para Priorização de Requisitos (First Things First) e atualizado na wiki do projeto.
+</p>
 
 | Atividade                                         | Integrantes                                            |
 | ------------------------------------------------- | ------------------------------------------------------ |
@@ -34,15 +39,17 @@ Alterações no planejamento foram realizadas nessa etapa do projeto. Agora a eq
 | First Things First                                | Luis Bruno e Lucas Leite                               |
 | Elaborar perguntas para entrevista                | Tiago Miguel, Daniel Sousa, Pedro Miranda, Lucas Leite |
 | Alteração no RichPicture                          | Daniel Sousa, Tiago Miguel                             |
-| Atualização Wik                                   | Todos integrantes                                      |
+| Atualização Wiki                                  | Todos integrantes                                      |
 | Requisitos Esperados - Elaboração de Aprendizagem | Tiago Miguel, Pedro Miranda e Daniel Sousa             |
 | Docker do repositório                             | Lucas Medeiros                                         |
 | Requisitos óbvios                                 | Lucas Medeiros e Tiago Miguel                          |
 | Ajustes no planejamento e abertura do Trello      | Luis Bruno                                             |
 
 ### **Sprint 3**
+19/09 ~ 26/09
 <p align="justify">&emsp;
-Na Sprint 3 foi trabalhado toda a modelagem do sistema por todos os membros da equipe. Configurações no deploy foram realizadas com o objetivo de ter mais facilidade de atualização da wiki.</p>
+    Na Sprint 3 foi trabalhado toda a modelagem do sistema por todos os membros da equipe. Configurações no deploy foram realizadas com o objetivo de ter mais facilidade de atualização da wiki.
+</p>
 
 | Atividade                             | Integrantes                   |
 | ------------------------------------- | ----------------------------- |
@@ -50,11 +57,67 @@ Na Sprint 3 foi trabalhado toda a modelagem do sistema por todos os membros da e
 | Modelagem - Casos de uso              | Lucas Medeiros e Tiago Miguel |
 | Modelagem - Léxicos                   | Daniel Sousa e Pedro Miranda  |
 | Modelagem - Cenários                  | Daniel Sousa e Pedro Miranda  |
-| Apresentação em slides                | Todos os integrantes          |
 | Configurações de deploy               | Lucas Medeiros                |
 
 
+### **Sprint 4**
+26/09 ~ 03/10
+
+<p align="justify">
+    Nessa Sprint foi continuado o trabalho de modelagem de requisitos e preparações para o Ponto de controle 3, que aconteceu no dia 01/10. Portanto, os tópicos repetidos aqui foram definitivamente finalizados ou melhorados.
+</p>
+
+| Atividade                             | Integrantes                   |
+| ------------------------------------- | ----------------------------- |
+| Modelagem - Especificação suplementar | Lucas Leite e Luis Bruno      |
+| Modelagem - Casos de uso              | Lucas Medeiros e Tiago Miguel |
+| Modelagem - Léxicos                   | Daniel Sousa e Pedro Miranda  |
+| Apresentação em slides                | Todos os integrantes          |
+
+### **Sprint 5**
+03/10 ~ 10/10
+
+<p align="justify">
+    Após o Ponto de controle 3 iniciaram-se as aulas teóricas sobre os próximos tópicos de modelagem, aqui foram iniciados os Backlogs e História de usuário que se estenderam até o Ponto de controle 4 por serem tópicos longos e bem detalhados. 
+</p>
+
+| Atividade                                                    | Integrantes                                                |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| Modelagem - Backlogs                                         | Lucas Medeiros, Tiago Miguel, Pedro Miranda e Daniel Sousa |
+| Modelagem - História de usuário                              | Pedro Miranda e Daniel Sousa                               |
+| Estilização GithubPages                                      | Pedro Miranda                                              |
+| Atualização documento de Planejamento (Quadro de atividades) | Luis Bruno, Lucas Leite e Daniel Sousa                     |
+
+### **Sprint 6**
+10/10 ~ 17/10
+
+<p align="justify">
+    O foco da 6° Sprint foram os tópicos de modelagem: NFR Framework, Backlogs e História de usuário.
+</p>
+
+| Atividade                       | Integrantes                   |
+| ------------------------------- | ----------------------------- |
+| Modelagem - NFR Framework       | Lucas Leite e Luis Bruno      |
+| Modelagem - Backlogs            | Lucas Medeiros e Tiago Miguel |
+| Modelagem - História de usuário | Daniel Sousa e Pedro Miranda  |
+
+### **Sprint 7**
+17/10 ~ 24/10
+
+<p align="justify">
+    Na Sprint 7 foi fundamental a preparação da Wiki e a apresentação para o 4° Ponto de controle (que aconteceu no dia 22/10), além disso, foram finalizados os NFR Framework, Backlogs e Histórias de usuário.
+</p>
+
+| Atividade                               | Integrantes                   |
+| --------------------------------------- | ----------------------------- |
+| Modelagem - NFR Framework               | Lucas Leite e Luis Bruno      |
+| Modelagem - Backlogs                    | Lucas Medeiros e Tiago Miguel |
+| Modelagem - História de usuário         | Daniel Sousa e Pedro Miranda  |
+| Apresentação em slides                  | Todos os integrantes          |
+| Atualização de todos os tópicos da Wiki | Todos os integrantes          |
+
 ### **Histórico de Revisões**
-| Data       | Responsável                                        | Versão | Alteração                        |
-| ---------- | -------------------------------------------------- | ------ | -------------------------------- |
-| 01/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando conteúdo das sprints |
+| Data       | Responsável                                        | Versão | Alteração                                      |
+| ---------- | -------------------------------------------------- | ------ | ---------------------------------------------- |
+| 01/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando conteúdo das sprints               |
+| 22/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 2      | Adicionando conteúdo das sprints a partir da 4 |
