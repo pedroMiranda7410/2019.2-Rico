@@ -45,6 +45,9 @@
             }
         }
         else {
+            console.log(window.location.pathname);
+            console.log(window.location.pathname.includes("Backlog"));
+
             if(window.location.pathname.includes("Backlog")){
                 
             }else{
