@@ -45,7 +45,11 @@
             }
         }
         else {
-            images[index].style.borderRadius = "30px";
+            if(window.location.pathname.includes("Backlog")){
+                
+            }else{
+                images[index].style.borderRadius = "30px";
+            }
         }
     }
 

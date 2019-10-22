@@ -16,7 +16,12 @@ Daniel de Sousa Oliveira Melo Veras | [@dansousamelo](https://github.com/dansous
 Tiago Miguel Caetano da Silva  | [@tmcstiago](https://github.com/tmcstiago)
 Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
 
-## **Backlog**
+## **Backlog V1.0**
+
+![backlogV1](../../../img/modelo_backlog_1.png)
+![backlogV1_1](../../../img/modelo_backlog_2.png)
+
+## **Backlog V2.0**
 
 <table>
     <thead>
