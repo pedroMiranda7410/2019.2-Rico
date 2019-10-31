@@ -2,7 +2,7 @@
 
 ## **Planejamento**
 <p align="justify">&emsp;
-    Como o autor não pode ser, também, o leitor desenvolvemos o planejamento da seguinte forma:
+    Como o autor não pode ser também o leitor, desenvolvemos o planejamento da seguinte forma:
 </p>
 
 * Somando a quantidade de NFR’s existentes desenvolvidos em nosso trabalho, temos um total de 3. Sabendo disso, separamos as tarefas de cada participante em 2. 
