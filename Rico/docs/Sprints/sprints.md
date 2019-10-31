@@ -116,8 +116,25 @@
 | Apresentação em slides                  | Todos os integrantes          |
 | Atualização de todos os tópicos da Wiki | Todos os integrantes          |
 
+### **Sprint 8**
+24/10 ~ 31/10
+
+<p align="justify">
+    Na Sprint 8 foi trabalhado as técnicas de Inspeção e Validação dos requisitos já levantados a partir dos artefatos já produzidos pela equipe
+</p>
+
+| Atividade                                            | Integrantes                   |
+| ---------------------------------------------------- | ----------------------------- |
+| Inspeção - Documento teórico                         | Daniel Sousa e Pedro Miranda  |
+| Inspeção - Backlogs                                  | Lucas Medeiros e Tiago Miguel |
+| Inspeção - Cenários e Léxicos                        | Daniel Sousa e Pedro Miranda  |
+| Inspeção - NFR Framework e Especificação Suplementar | Lucas Leite e Luis Bruno      |
+| Apresentação em slides                               | Todos os integrantes          |
+| Atualização de todos os tópicos da Wiki              | Todos os integrantes          |
+
 ### **Histórico de Revisões**
 | Data       | Responsável                                        | Versão | Alteração                                      |
 | ---------- | -------------------------------------------------- | ------ | ---------------------------------------------- |
 | 01/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando conteúdo das sprints               |
-| 22/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 2      | Adicionando conteúdo das sprints a partir da 4 |
+| 22/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1    | Adicionando conteúdo das sprints a partir da 4 |
+| 31/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.2    | Adicionando conteúdo da sprint 8               |
