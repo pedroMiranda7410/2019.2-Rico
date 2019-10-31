@@ -10,16 +10,12 @@
         <tr>
             <th>Participantes</th>
             <th>Função</th>
-            <th>Itens de Inspeção</th>
-            <th>Data</th>
         </tr>
     </thead>
     <tbody >
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><span style="color:orange">Lucas Medeiros</span></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Moderador, Leitor, Inspetor</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Inspeção do backlog</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">30/10 </td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><span style="color:green">Tiago Miguel</span></td>
@@ -45,9 +41,11 @@
 
 ## **Histórico de Revisões**
 
+## **Histórico de Revisões**
+
 | Data       | Responsável                                        | Versão | Alteração                                                                            |
 | ---------- | -------------------------------------------------- | ------ | ------------------------------------------------------------------------------------ |
-| 29/10/2019 | [@medeiroslucas](https://github.com/medeiroslucas)         | 1      | Adicionar a primeira avaliação do backlog |
+| 30/10/2019 | [@tmcstiago](https://github.com/tmcstiago) e [@medeiroslucas](https://github.com/medeiroslucas) | 1      | Adicionando inspeção do Backlog |
 
 ## **Referências**
  * <p align="justify">Wake, Bill - INVEST in Good Stories, and SMART Tasks; Disponível em https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/.</p>
