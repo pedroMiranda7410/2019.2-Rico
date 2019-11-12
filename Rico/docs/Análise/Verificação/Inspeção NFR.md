@@ -81,6 +81,14 @@
     A fim de garantir que as modificações necessárias nos NFRs foram feitas em conformidade, o moderador e o autor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos NFRs tenha(m) retificado todos os requisitos não funcionais declarados incompletos e/ou inconsistentes.
 </p>
 
+## **Referências**
+
+ * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 17; Disponível em https://aprender.ead.unb.br/pluginfile.php/730386/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf</p>
+
+ * <p align="justify">MUHAMAD, Youssef; Verificação NFR; Disponível em https://requisitos-habitica.netlify.com/VerificacaoNFR</p>
+
+ * <p align="justify">ELIAS, William; Verificação NFR; Disponível em https://williamelias.github.io/Req-01-2019-medium/analise/verificacao_NFR/</p>
+
 ## **Histórico de Revisões**
 
 | Data       | Responsável                                                                                   | Versão | Alteração                   |

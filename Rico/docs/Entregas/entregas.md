@@ -46,9 +46,18 @@ Uma boa comunicação entre a equipe é imprescindível para o bom funcionamento
 </p>
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2h7dpQeLkukhLop77eyBYuoSXsJxuvqPDDv8pRpgM7Rl3y_V1OPBzSMdf5Vq3D3y9W8Vaph9EXBFp/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2h7dpQeLkukhLop77eyBYuoSXsJxuvqPDDv8pRpgM7Rl3y_V1OPBzSMdf5Vq3D3y9W8Vaph9EXBFp/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
+#### **Ponto de controle 5**
+
+<p align="justify">
+    No quinto ponto de controle foram analisados estudos teóricos de Análise de processos, Inspeção, Verificação e Validação para a Inspeção dos seguintes artefatos produzidos: NFR Framework, Especificação Suplementar, Backlog, Casos de uso, Rich Picture, Léxicos (1 à 13), Cenários (1 à 15).
+</p>
+
+<p align="center">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_uZHC-nOMnHZ8MFYMvhlh59EkSikO0UhyocvwtAvdmSrESmQqLJpxZtz0-bingGoWRc2DH1vRaafo/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 ### Histórico de revisões
 
@@ -59,3 +68,4 @@ Uma boa comunicação entre a equipe é imprescindível para o bom funcionamento
 | 26/09/2019 | [@dansousamelo](http://github.com/dansousamelo)    | 1.2    | Corrigindo formatação                                                                |
 | 01/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.3    | Adicionando informações do Ponto de controle 3                                       |
 | 22/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.4    | Adicionando informações do Ponto de controle 4                                       |
+| 31/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.5    | Adicionando informações do Ponto de controle 5                                       |

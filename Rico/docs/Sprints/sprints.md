@@ -120,7 +120,7 @@
 24/10 ~ 31/10
 
 <p align="justify">
-    Na Sprint 8 foi trabalhado as técnicas de Inspeção e Validação dos requisitos já levantados a partir dos artefatos já produzidos pela equipe
+    Na Sprint 8 foi trabalhado as técnicas de Inspeção e Validação dos requisitos já levantados a partir dos artefatos já produzidos pela equipe.
 </p>
 
 | Atividade                                            | Integrantes                   |
@@ -129,6 +129,7 @@
 | Inspeção - Backlogs                                  | Lucas Medeiros e Tiago Miguel |
 | Inspeção - Cenários e Léxicos                        | Daniel Sousa e Pedro Miranda  |
 | Inspeção - NFR Framework e Especificação Suplementar | Lucas Leite e Luis Bruno      |
+| NFR Framework V2                                     | Lucas Leite e Luis Bruno      |
 | Apresentação em slides                               | Todos os integrantes          |
 | Atualização de todos os tópicos da Wiki              | Todos os integrantes          |
 
