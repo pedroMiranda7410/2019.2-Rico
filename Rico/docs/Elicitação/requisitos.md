@@ -95,18 +95,9 @@ A equipe utilizou a técnica do brainstorming para levantar os requisitos  surpr
 
 ### **Requisitos Surpresa Levantados**
 
-<p align="justify"></b>1.</b> Proporcionar um simulador de investimentos.</p>
-<p align="justify"></b>2.</b> Proporcionar que o usuário aprenda sobre investimento.</p>
-<p align="justify"></b>3.</b> Proporcionar segurança por meio de digital.</p>
-<p align="justify"></b>4.</b> Proporcionar uma experiência de usuário.</p>
-<p align="justify"></b>5.</b> Indicação de investimento realizado por analistas.</p>
-<p align="justify"></b>6.</b> Informar o risco do investimento por meio de categorias.</p>
-<p align="justify"></b>7.</b> Filtrar uma lista de investimentos por categorias, risco, rentabilidade e valor.</p>
-<p align="justify"></b>8.</b> Indicar a porcentagem de variação do valor do investimento no dia.</p>
-<p align="justify"></b>9.</b> Atualizar de forma constante o valor do investimento, de maneira que o usuário veja a variação em tempo real.</p>
-<p align="justify"></b>10.</b> Prover informações para o usuário sobre como determinado investimento variou seu valor ao longo dos últimos dias.</p>
-<p align="justify"></b>11.</b> Dar a possibilidade pro usuário selecionar seus investimentos favoritos, os colocando em uma lista disponibilizada para o usuário.</p>
-
+<p align="justify"><b>RF03.</b> O sistema deve proporcionar segurança por meio de digital.</p>
+<p align="justify"><b>RF10.</b> O usuário deve definir ou alterar o seu perfil de investidor.</p>
+<p align="justify"><b>RF47.</b> O usuário deve ser capaz de ativar/desativar operação de alavancada.</p>
 
 ## **Requisitos Esperados**
 
@@ -220,14 +211,33 @@ Você será avaliado pela sua situação financeira (renda e patrimônio), idade
 
 ### **Requisitos Esperados Levantados**
 
-<p align="justify"><b>1.</b> Fazer com que o usuário possa investir seus fundos de maneira eficiente e segura.</p>
-<p align="justify"><b>2.</b> O sistema deve ficar sempre online para que transferências sejam feitas.</p>
-<p align="justify"><b>3.</b> O usuário deve ser capaz de criar uma nova conta com os dados da sua conta bancária, CPF e comprovante de residência.</p>
-<p align="justify"><b>4.</b> O usuário deve ser capaz de logar utilizando o seu nome de usuário e uma senha definida por ele no momento do cadastro.</p>
-<p align="justify"><b>5.</b> O Rico deve apresentar para o usuário os dados dos investimentos já realizados.</p>
-<p align="justify"><b>6.</b> O usuário deve ser capaz de escolher dentre várias opções e tipos de investimento.</p>
-<p align="justify"><b>7.</b> O usuário deve poder agendar a data que deseja para comprar os investimentos/ações.</p>
-<p align="justify"><b>8.</b> O usuário deve ser capaz de visualizar o retorno dos seus investimentos.</p> 
+<p align="justify"><b>RF08.</b> O usuário do sistema desejo visualizar os relatórios extras.</p>
+<p align="justify"><b>RF13.</b> O usuário deseja visualizar informações para declarar Imposto de Renda.</p>
+<p align="justify"><b>RF16.</b> O usuário deseja visualizar notas de corretagem.</p>
+<p align="justify"><b>RF21.</b> O usuário deve ser capaz de logar utilizando o seu nome de usuário e uma senha definida por ele no momento do cadastro.</p>
+<p align="justify"><b>RF22.</b> O usuário deseja visualizar as últimas ordens realizadas no tesouro direto.</p>
+<p align="justify"><b>RF28.</b> O usuário deseja visualizar os ativos de renda variável
+.</p>
+<p align="justify"><b>RF29.</b> O usuário deseja visualizar os títulos de renda variável.</p>
+<p align="justify"><b>RF30.</b> O usuário deseja visualizar o extrato de movimentação.</p> 
+<p align="justify"><b>RF31.</b> O usuário deseja visualizar as modalidades de investimentos disponíveis
+.</p> 
+<p align="justify"><b>RF35.</b> O usuário deseja visualizar os ativos de renda variável.</p>
+<p align="justify"><b>RF39.</b> O usuário deseja visualizar detalhes de ativos de renda variável.</p> 
+<p align="justify"><b>RF40.</b> O usuário deseja procurar um título de Renda Fixa.</p>
+
+<p align="justify"><b>RF41.</b> O usuário deseja filtrar títulos de Renda Fixa.</p> 
+
+<p align="justify"><b>RF42.</b> O usuário deseja procurar fundos de investimentos.</p> 
+
+<p align="justify"><b>RF43.</b> O usuário deseja filtrar fundo de investimentos disponíveis.</p> 
+
+<p align="justify"><b>RF53.</b> O usuário deve ser capaz de acessar o suporte via FAQ.</p>
+
+<p align="justify"><b>RF54.</b> O usuário deve ser capaz de acessar o suporte via chat online.</p> 
+<p align="justify"><b>RF55.</b> O usuário deseja visualizar o extrato de movimentação.</p> 
+
+<p align="justify"><b>RF56.</b> O usuário deve ser capaz de acessar as mídias sociais.</p> 
 
 ## **Requisitos Óbvios**
 <p align="justify">&emsp;
