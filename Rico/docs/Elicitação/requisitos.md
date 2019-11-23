@@ -241,7 +241,7 @@ Você será avaliado pela sua situação financeira (renda e patrimônio), idade
 
 ## **Requisitos Óbvios**
 <p align="justify">&emsp;
-Para o levantamento dos requistos óbvios é necessário identificar quais são os pontos mínimos e básicos para uma plicação nesse segmento. Para isso foram usados outros aplicativos da área para definir quais são os pontos em comum deste setor, além disso foram pesquisadas normas nacionais que regulam aplicações que atuam neste nicho.</p>
+Para o levantamento dos requistos óbvios é necessário identificar quais são os pontos mínimos e básicos para uma aplicação nesse segmento. Para isso foram usados outros aplicativos da área para definir quais são os pontos em comum deste setor, além disso foram pesquisadas normas nacionais que regulam aplicações que atuam neste nicho.</p>
 
 ### **Requisitos Óbvios Levantados**
 
