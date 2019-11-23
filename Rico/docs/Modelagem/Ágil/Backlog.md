@@ -256,6 +256,22 @@ Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US52</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo vender ativos de renda variável</td>
+        </tr>  
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US53</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via FAQ</td>
+        </tr> 
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US54</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via chat online</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US55</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via telefone</td>
+        </tr> 
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US56</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via mídias sociais</td>
         </tr>          
     </tbody>
 </table>
@@ -268,6 +284,7 @@ Data | Responsável | Versão | Alteração
 17/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.1 | Adicionado as US01 á US26
 17/10/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2 | Adicionado as US27 á US52 
 17/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) e [@dansousamelo](https://github.com/dansousamelo) | 1.3 | Adicionado referências e descrição 
+23/11/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.4 | Adicionando US 53, 54, 55, 56
 
 
 ## **Referências**
