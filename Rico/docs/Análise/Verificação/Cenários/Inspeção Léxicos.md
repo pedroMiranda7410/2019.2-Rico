@@ -1,6 +1,8 @@
 ![Rich-picture](../../../img/sherlock.png)
 
 ## **Planejamento**
+<p align="justify">&emsp;As perguntas para inspeção foram baseadas no Artigo: C&L: Uma Ferramenta de Apoio à Engenharia de Requisitos, referenciado ao final da página.<i></i></p>
+
 <p align="justify">&emsp;Desenvolvemos o planejamento da seguinte forma, considerando que o autor não pode ser o leitor e também considerando uma equipe de 2 pessoas que desempenham mais de uma função:</p>
 
 * <p align="justify">&emsp;Somando a quantidade de léxicos existentes desenvolvidos em nosso trabalho, temos um total de 30. Sabendo disso, separamos as tarefas de cada participante em 2. Nos primeiros 15 léxicos teremos o seguinte planejamento:</p>
@@ -73,6 +75,9 @@
 | Data       | Responsável                                        | Versão | Alteração                                                                            |
 | ---------- | -------------------------------------------------- | ------ | ------------------------------------------------------------------------------------ |
 | 29/10/2019 | [@dansousamelo](https://github.com/dansousamelo)         | 1      | Adicionando inspeção de 13 léxicos|
+| 23/11/2019 | [@dansousamelo](https://github.com/dansousamelo)         | 2      | Adicionando referências|
 
 ## **Referências**
  * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11; Disponível em https://aprender.ead.unb.br/pluginfile.php/727236/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf.</p>
+  * <p align="justify">FERNANDES DA SILVA, Lyrene; CESAR SAMPAIO DO PRADO LEITE, Julio; KOOGAN BREITMAN, Karin. C&L: Uma Ferramenta de Apoio à Engenharia de Requisitos. Revista RITA, [S. l.], p. 1-23, 20 jan. 2005.
+</p>
